@@ -1,0 +1,97 @@
+\documentclass[12pt,letterpaper,notitlepage,onecolumn]{article}
+
+% double-space for drafts
+%\usepackage{setspace}
+%\doublespacing
+
+% use times font
+\usepackage{times}
+
+% graphics can be pdfs or jpgs or pngs, go in figures folder
+\usepackage[pdftex]{graphicx}
+\graphicspath{{./figures/}}
+
+% makes several images with subcaptions inside one fig
+\usepackage{subfigure}
+
+% use author-date references
+\usepackage[longnamesfirst,round]{natbib}
+
+% make links in pdf
+\usepackage[pdftex]{hyperref}
+\hypersetup{%
+pdftitle={Made of Tiny Robots},
+pdfauthor={Michael Philetus Weller},
+pdfkeywords={your keywords},
+bookmarksnumbered,
+pdfstartview={FitH},
+colorlinks,
+citecolor=black,
+filecolor=black,
+linkcolor=black,
+urlcolor=black,
+breaklinks=true,
+}
+
+\usepackage{url}
+% \url{my_url_here}
+
+\def\tm{\texttrademark} % \tm for trademark sign
+
+% fix words that failed to break at end of line
+\hyphenation{pose-able}
+
+\title{\textbf{Made of Tiny Robots}\\
+{\large Building and Interacting with Robunculi}}
+\author{Michael Philetus Weller}
+\date{May 2012}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+
+{\centering
+Thesis Committee:\\[\baselineskip]
+
+\textbf{Mark D Gross}\\
+Professor, CMU (chair)\\[\baselineskip]
+
+\textbf{Ellen Yi-Luen Do}\\
+Associate Professor, Georgia Tech\\[\baselineskip]
+
+\textbf{Seth Copen Goldstein}\\
+Associate Professor, CMU\\
+}
+
+\newpage
+\abstract{%
+\input{text/abstract}
+}
+
+\newpage
+\setcounter{tocdepth}{2}
+\tableofcontents
+\newpage
+
+\input{text/intro}
+%\input{text/approach}
+%\input{text/framework}
+%\input{text/survey}
+%\input{text/projects}
+%\input{text/acknowledgements}
+%\appendix
+%\input{text/timeline}
+%\input{text/thesis_outline}
+%\input{text/publication_schedule}
+%\input{text/glossary}
+
+% generate bibliography
+\addcontentsline{toc}{section}{Bibliography}
+\bibliographystyle{plainnat}
+\bibliography{local}
+
+% just include previously generated bibliography (for submission)
+%\input{text/bibliography}
+
+\end{document}
+
