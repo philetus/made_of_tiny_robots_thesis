@@ -1,4 +1,4 @@
-\documentclass[12pt,letterpaper,notitlepage,onecolumn]{article}
+\documentclass[12pt,letterpaper,notitlepage,onecolumn]{report}
 
 % double-space for drafts
 %\usepackage{setspace}
@@ -12,7 +12,7 @@
 \graphicspath{{./figures/}}
 
 % makes several images with subcaptions inside one fig
-\usepackage{subfigure}
+%\usepackage{subfigure}
 
 % use author-date references
 \usepackage[longnamesfirst,round]{natbib}
@@ -90,16 +90,16 @@ Associate Professor, CMU\\
 \newpage
 
 \input{text/intro}
-%\input{text/approach}
+\input{text/ontology}
 %\input{text/framework}
 %\input{text/survey}
 %\input{text/projects}
 %\input{text/acknowledgements}
-%\appendix
+\appendix
 %\input{text/timeline}
 %\input{text/thesis_outline}
 %\input{text/publication_schedule}
-%\input{text/glossary}
+\input{text/glossary}
 
 % generate bibliography
 \addcontentsline{toc}{section}{Bibliography}
