@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29316463"
-     inkscape:cx="1382.0189"
-     inkscape:cy="1065.0836"
+     inkscape:zoom="0.2072987"
+     inkscape:cx="1393.1979"
+     inkscape:cy="1236.1695"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,9 +36,9 @@
      fit-margin-right="12"
      fit-margin-left="16"
      fit-margin-bottom="20"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
+     inkscape:window-width="1024"
+     inkscape:window-height="576"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,6 +58,18 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(586.14311,632.81311)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -144.95169,372.73633 184.010291,-193.82882 12.114271,11.66806 -3.891281,-33.98528 -29.417847,11.64308 12.258436,5.5594 -184.04665,193.88638 z"
+       id="use2896-13-3-6"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -2.0377661,156.46281 -148.9169539,163.56946 -13.08827,-10.5639 -0.38731,28.69082 29.49281,-4.52335 -6.66766,-9.29002 L 7.3428359,160.71594 z"
+       id="use2896-13-35-47"
+       sodipodi:nodetypes="cccccccc" />
     <g
        transform="translate(1372.8986,-9.9624377)"
        id="g20757-3">
@@ -2319,13 +2331,13 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1.4367294,280.72059 -48.4797304,-80.27963 15.13489,-7.3372 -33.23702,-8.0897 0.76276,31.62893 9.45219,-9.58293 48.5211804,80.33363 z"
+       d="m -8.211185,285.54455 -53.303687,-87.51557 15.13489,-7.3372 -33.23702,-8.0897 0.76276,31.62893 9.45219,-9.58293 53.345137,87.56957 z"
        id="use2896-13-3"
        sodipodi:nodetypes="cccccccc" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m -102.20206,208.50546 44.009489,74.65103 -14.43522,8.6327 33.81719,5.1519 -3.52602,-31.441 -8.57788,10.3728 -44.05547,-74.70103 z"
+       d="m -116.67393,202.47552 62.099327,103.59477 -14.43522,8.6327 33.81719,5.1519 -3.52602,-31.441 -8.57788,10.3728 -62.145307,-103.64477 z"
        id="use2896-13-35"
        sodipodi:nodetypes="cccccccc" />
     <path
@@ -2412,7 +2424,7 @@
            y="747.40985"
            x="-2386.76"
            id="tspan5848-5-8-3-3-7"
-           sodipodi:role="line">device hacker</tspan><tspan
+           sodipodi:role="line">hardware hacker</tspan><tspan
            id="tspan11779-9-7-4-4"
            style="font-size:28px;font-style:italic;font-weight:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Italic"
            y="775.55963"
