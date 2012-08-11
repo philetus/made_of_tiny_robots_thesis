@@ -4,17 +4,13 @@
 \chapter{An Ontology of Responsive Environments}
 \label{ch:ontology}
 %
-As we enter the age of ubiquitous computing \citep{weiser_1999} our relationship with our artifact ecology is changing. 
+As we enter the age of ubiquitous computing our relationship with our artifact ecology is changing. 
 There are several factors to these changes: we have new ways to fabricate artifacts; we have new ways of relating to artifacts; and our artifacts increasingly perform tasks that were once the exclusive domain of people.
-One of the key changes in an artifact ecology (that drives other changes) is the emergence of powerful computational agents that manage the explosion of relationships (and data) that arise when every artifact begins to communicate over the network.
-
-
-
-To facilitate discussion of potential artifact ecologies we introduce some terminology.
+To facilitate a discussion of these changes we here describe the components of these responsive ecologies in more detail, and coin several terms to refer to these components.
 In Section~\ref{sec:kinds_of_artifacts} we suggest some categories for distinguishing different kinds of artifacts according to their purpose and means of production.
 In Section~\ref{sec:roles} we discuss how these categories help to structure the roles we can play in relation to the production and use of artifacts.
 
-In Section~\ref{sec:artifact_ecologies} we outline several artifact ecologies that could support responsive environments. 
+In Section~\ref{sec:artifact_ecologies} we describe the responsive artifact ecologies introduced in Chapter~\ref{ch:intro} in more detail. 
 We suggest that one of the key distinctions between these different ecologies is the roles that are available for members of each society to play; ecologies structured around more transparent technological mechanisms and more reconfigurable artifacts will present more opportunities for people to adopt roles that shape the behavior of their environment. 
 Of particular interest is what we are calling a robunculi ecology: manufacturing is focused on producing robotic kits of parts rather than devices that perform a single role; these kits can either be assembled, or can self-assemble, into a variety of forms on demand. 
 
@@ -27,70 +23,138 @@ In section~\ref{sec:ecological_impacts} we describe some potential impacts of th
 \label{sec:kinds_of_artifacts}
 %
 By embedding computation in artifacts we can expand both the purposes they can serve and our means of producing new artifacts. 
-We have developed some terminology to describe artifacts in both of these axes, purpose and production, as illustrated in Figure~\ref{fig:kinds_of_artifacts} and enumerated below. 
-Together these categories help to determine the roles we can play in relating to a given artifact.
+We have developed some terminology to describe artifacts in both of these axes. 
+Together the categories of production and purpose help to determine the roles we can play in relating to a given artifact.
 
 \subsection{Artifact Production Typologies}
 %
+In a popsicle ecology we are used to purchasing packaged preconfigured devices. As illustrated in Figure~\ref{fig:hardware_venn} there are several ways a device can be implemented in a responsive environment. 
 
-    \begin{enumerate}
-        \item construction kits vs rapid prototyping
-        \item robunculi, productization and reuse
-    \end{enumerate}
-
-\subsubsection{Popsicles}
-
-\subsubsection{Spokes}
-
-\subsubsection{Figs}
-
-\subsubsection{Thous}
-
-\subsubsection{Hyperforms}
-
-
-\subsection{An Enumeration of Artifact Purpose Typologies} % really???
-%
-While the purposes of non-computational artifacts generally dictate their forms, the physical form of computationally enhanced artifacts is often less constrained. By distinguishing devices according to their purpose we can develop a consistent language and reusable modes of interaction.
-
-\subsubsection{Ducks}
-
-
-\subsubsection{Tinks}
-
-\subsubsection{Shrines}
-
-\subsubsection{Golems}
-
-\subsubsection{Sticks}
-
-\subsubsection{Badges}
-
-%
-\begin{figure}[h!]
-  \centering
-%    \includegraphics[width=\textwidth]{kinds_of_artifacts.pdf}
-    \includegraphics[width=125mm]{kinds_of_artifacts.pdf}
-  \caption{An illustration of various kinds of artifacts found in responsive environments: \emph{A)} a (work)bench computer (a popsicle); \emph{B)} an avatar hyperthou; \emph{C)} a tile tinkit; \emph{D)} a bowl and spoon (duckcicles); \emph{E)} a stickpuppet fig (with a hub-and-strut tinkit body and a volticle crystal for a head); \emph{F)} a golem fig fetching lunch; \emph{G)} a social table hyperfig (composed of prismatic cube bunkles) that expands as people sit to keep an empty chair available by drawing more bunkles from a reservoir.}
-  \label{fig:kinds_of_artifacts}
-\end{figure}
-%
-
-
-\begin{figure}[tb]
+\begin{figure}[]
   \centering
     \includegraphics[width=140mm]{hardware_venn.pdf}
-  \caption{Venn diagram of the different categories of computational artifacts.}
+  \caption{Venn diagram of computational artifact hardware categories.}
   \label{fig:hardware_venn}
 \end{figure}
 
+Two important factors in the production of responsive hardware are scale and tooling. 
+At the smallest end are chips, analog electronic components, sensors and actuators. 
+We will refer to this group collectively as \emph{organelles}, after the tiny machines that power biological cells; these components are generally produced in high volumes in and require expensive, technologically sophisticated tooling usually found in factories. 
+Even supposedly \textbf{open hardware} systems are built around these closed organelles. 
 
+At the next scale are modules that package these organelles to make them more accessible to spoke developers (for example an \textbf{Arduino} board), or to present a tangible interface (like our Posey kit). 
+(The Arduino is an example of a \emph{shrine}, a computing module that can, among other things, allow a device to communicate with idols.) 
+This stage of production can take place at a sophisticated local fab shop (with tools such as a \textbf{pick-and-place}) but often takes place in a more traditional factory because of the economic advantages of scale.
 
-[TODO: figures showing axes] (transparency - physically secured state/corp rental -> drm'd black box -> open source hardware) (reconfigurability - mass-manufactured widget -> bespoke popsicle -> kit of parts -> hyperform)
+Popsicles are generally manufactured as a monolithic design including the necessary organelles on a custom circuit board, and sandwiched inside of a factory-produced case. 
+Spoke and robunculi ecologies make use of modules to lower the barrier to device design. 
+Sharing high-level components reduces the amount of technological knowledge required to create and customize devices.
+Open hardware circuit modules abstract away from the complexity of organelles and electronics, and are generally accompanied by online code samples and tutorials. 
+Open hardware designs for cases and mechanical components can also be downloaded, customized and then fabricated with \textbf{rapid prototyping}%
+\footnote{Some examples of rapid prototyping technologies commonly available at local fab shops are \textbf{fused deposition modeling (FDM)} 3D printers and \textbf{computer numerically controlled (CNC) mills}.}
+technologies at local fab shops (such as \textbf{hackerspaces}).
+Robunculi kits require no manufacturing at all, a device can be realized by assembling it from a kit, or by loading a program so that it self-reconfigures.
+
+With robunculi systems the artifacts being manufactured are no longer devices but rather kits of \emph{bunkles} (our term for an individual component of a robunculi kit; analagous to a single lego brick) that can be used to create devices (among other things). We call a device that is implemented as a particular configuration of bunkles a \emph{fig} (as in a configuration). Robunculi make customization of a device design as accessible as playing with a construction kit. They support reuse by allowing different figs to be implemented at different times with the same bunkles. And a kit can be customized by printing new bespoke bunkles at a local fab shop.
+
+While a single bunkle is not generally useful without a whole kit, it is possible that a device such as crystal (i.e. a smart phone) could interoperate with a robunculi kit;%
+\footnote{For example Google and Arduino collaborated to produce the Arduino Mega Android Development Kit (\url{http://labs.arduino.cc/ADK/Index}), an open hardware module for creating spokes that interface with devices running the Android operating system.}
+it could be connected as a part of a fig to provide a display, or better networking, or a more powerful processor.
+We will call such a device that can function both on its own (as a popsicle) and as a part of a fig a \emph{volticle}, an abbreviation of `Voltron%
+\footnote{Voltron is a fictional mecha (a robot with a human driver inside) from the Japanese animated series of the same name. It is composed of five smaller mechas that can operate on their own or join together to form Voltron.}
+popsicle'.
+Volticles are one example of how spoke and robunculi ecologies can influence larger popsicle ecologies to support transparency and reconfiguration.
+
+Robunculi capable of self-reconfiguration can be used to create hyperforms (objects capable of changing their shape over time). We call a robunculi hyperform a \emph{hyperfig}; one useful way of characterizing a hyperfig is by defining a series of intermediate fig keyframes that the system self-reconfigures between. 
+
+Hyperforms can also be implemented by claytronic systems. While robunculi are composed of bunkle modules claytronic systems are composed of tiny clayticle organelles. We call the claytronic analog of a fig a \emph{thou} after the T-1000, the shape-changing robot made of `liquid metal' from the 1991 movie Terminator 2. A self-reconfiguring claytronic system could be used to implement \emph{hyperthous}. In the example of the T-1000 (Figure~\ref{fig:t1000_weapon_thou}), it is capable of assuming a thou that mimics an actual person. Its hyperthou involves rapid self-reconfiguration of just the limbs of these mimic thous into piercing or slashing weaponized thous, as befits a killer robot from the future. 
+
+\begin{figure}[]
+  \centering
+    \includegraphics[width=80mm]{t1000_weapon_thou.jpg}
+  \caption{Still from \emph{Terminator 2} showing the T-1000 implementing a mimic thou with a weapon thou in place of its left arm.}
+  \label{fig:t1000_weapon_thou}
+\end{figure}
+
+\subsection{An Enumeration of Artifact Purpose Typologies} % really???
+%
+While the intended purpose of a non-computational artifact generally dictates its form, the physical form of a computationally enhanced artifact is often less constrained. 
+By distinguishing devices according to their purpose we can develop a consistent language and reusable modes of interaction. 
+We enumerate several categories of artifact purpose typologies below, as illustrated in Figure~\ref{fig:kinds_of_artifacts}. 
+
+\subsubsection{Ducks}
+Our name for objects that derive their utility directly from their form---rather than serving as an interface to some computational affordance---comes from Venturi's term \citeyearpar{venturi_vegas} for a building that expresses its purpose symbolically through its form.%
+\footnote{Venturi's example was a poultry store on Long Island that sold ducks and eggs that was shaped like an enormous duck.}
+For example, a shovel implemented with a claytronic system would be a duck thou---because the clayticles' computational affordances are being used to realize the desired form, but the shovel's only affordances are derived from its form. 
+Mass-produced non-computational artifacts such as a bowl and spoon (Figure~\ref{fig:kinds_of_artifacts}, \emph{D}) are \emph{duckcicles}. 
+A hyperform that derives its affordances from its changing forms, for example the social table hyperfig illustrated in Figure~\ref{fig:kinds_of_artifacts} at \emph{F}, is a \emph{hyperduck}.
+
+\subsubsection{Tinks}
+This is a device that supports tinkering as a means of expression. For example an audio mixing console features an array of dials and faders that adjust the relative characteristics of a collection of instruments and microphones. 
+The faders and dials serve to both illustrate the current state of the system and as an input for adjustment. 
+We call a kit that supports tinkering, such as Siftables tiles \citep{siftables} (Figure~\ref{fig:kinds_of_artifacts}, \emph{C}), a \emph{tinkit}. 
+
+\subsubsection{Shrines}
+This is a system that features computation and networking, and the name is an allusion to their primary function of communicating with idols. 
+These come in many forms. A collection of computers capable of hosting an idol (such as a server farm) is a \emph{temple}. 
+A shrine with a touchscreen (i.e. a smartphone or a tablet) is a crystal (as in a crystal ball). 
+A more powerful desktop computer is a \emph{bench} (as in a work bench, shown in Figure~\ref{fig:kinds_of_artifacts} at \emph{A}). 
+And a system that supports viewing and interaction with a group of people is a \emph{theater}.
+
+\subsubsection{Golems}
+Devices whose primary purpose is not interfacing with people but rather performing tasks for people fall into this category. 
+An example of a popsicle golem is BigDog \citep{bigdog}, a quadraped robotic pack animal designed to carry gear for soldiers. 
+Robunculi golem kits could be used to quickly construct a golem to perform a particular task (for example the quadraped fetchbot golem shown in Figure~\ref{fig:kinds_of_artifacts} at \emph{F}); the same bunkles could later be reused to create a different golem with different capabilities. 
+
+A golem that is under direct control of a human operator (like many military drones) is a \emph{sockpuppet}. A golem that is assigned tasks (or controlled directly) by an idol instead of a person is an \emph{avatar}. And a golem that people can ride on (or in%
+\footnote{For example Google's driverless car.})
+is a \emph{mount}.
+
+\begin{figure}[]
+  \centering
+%    \includegraphics[width=\textwidth]{kinds_of_artifacts.pdf}
+    \includegraphics[width=140mm]{kinds_of_artifacts.pdf}
+  \caption{An illustration of various kinds of artifacts found in responsive environments: \textbf{\emph{A}} a (work)bench computer (a popsicle); \textbf{\emph{B}} an avatar hyperthou; \textbf{\emph{C}} a tile tinkit; \textbf{\emph{D}} a bowl and spoon (duckcicles); \textbf{\emph{E}} a stickpuppet fig (with a hub-and-strut tinkit body and a volticle crystal for a head); \textbf{\emph{F}} a golem fig fetching lunch; \textbf{\emph{G}} a social table hyperfig (composed of prismatic cube bunkles).}
+  \label{fig:kinds_of_artifacts}
+\end{figure}
+
+\subsubsection{Sticks}
+While many devices in a responsive environment may operate autonomously, it will often be desirable for people to give direct input to control a device. 
+We call a device that facilitates realtime control input a `stick', after the classic video game input device the joystick. 
+
+There are several varieties of sticks. 
+For example a device that gathers together several buttons and directional controls such as a game controller, or an aerial drone sockpuppet's dedicated control panel, is a \emph{stickboard}. 
+The smaller fetchbot model (built with a tinkit) shown in Figure~\ref{fig:kinds_of_artifacts} at \emph{E} could be used as a \emph{stickpuppet} to directly pose the fetchbot golem shown at \emph{F}. 
+More nuanced input could be gathered from a partial%
+\footnote{For example the g-speak system \citep{gstalt} uses motion capture to identify hand gestures made while wearing special gloves in a space populated with high-resolution video cameras.}
+or full-body%
+\footnote{For example with a Kinect, an inexpensive system (sold as a peripheral for the XBox video game console) that captures both a depth mapping (using an infrared laser and sensor) and a video stream. This data can be combined to reconstruct a person's full-body pose.}
+\emph{sticksuit} that uses either an instrumented space or integrated sensors in clothing (or both) to capture human movement with high fidelity.
+
+\subsubsection{Badges}
+While people are adept at visually identifying artifacts and other people, most computational systems need a hint. Badges are devices that can be attached to an artifact or worn by a person to facilitate their identification by responsive devices. Passive badges such as \textbf{QR codes} and \textbf{RFID tags} need to be scanned by a sensor, while active badges such as crystals generally track their own position%
+\footnote{Using the \textbf{global positioning system (GPS)} or radio triangulation from known cell towers and wi-fi access points.}
+and broadcast it over the network.
+
 
 \section{Roles for Responsive Environments}
 \label{sec:roles}
 %
+\subsection{Taster}
+
+\subsection{Wrangler}
+rider (wrangler)
+
+\subsection{Tinker}
+
+\subsection{Tek}
+
+\subsection{Tooler}
+
+\subsection{Wiz}
+
+
+
 
 \section{Examples of Artifact Ecologies}
 \label{sec:artifact_ecologies}
@@ -146,26 +210,7 @@ While the purposes of non-computational artifacts generally dictate their forms,
     \end{enumerate}
 
 
-\section{Potential (Artifact) Ecological Impacts of Responsive Environments}
-\label{sec:ecological_impacts}
-%
-\subsection{Idols}
-%
-While we have related to our leveraged environments primarily as tool-users, as our environment becomes responsive this relationship is becoming more of a partnership amongst ourselves and various computational agents. 
-For example in a leveraged environment professionals would often supplement their memory by using a notebook and appointment book, and supplement their expertise with a small private library. 
-In a responsive environment, professionals supplement their memory through a small computer carried on their person (which we will call a \emph{crystal}\footnote{We call this class of handheld computers that provide a constant connection to the network `crystals', as in a crystal ball that is used to view distant places and communicate with other agents through the ether, and as a reference to their current popular physical realization as a fragile glass-plated touchscreen.}) that manages notes and appointments through the interaction of a variety of software agents over a network; they supplement their expertise by using this same device to query an idol (i.e. the googlebot).
-Of course professionals in a leveraged environment also practice division of labor, with secretaries managing appointments and engineers on call to make judgements using their personal libraries to supplement their domain knowledge.
-The difference is that in a leveraged environment partnerships are between people, and artifacts only effect change when operated by a person.
-Now when people send us invitations (from their crystals, over the network) an idol helpfully inserts them into our calendars and then buzzes us through our own crystals at the appropriate time to tell us where to be.
 
-We suggest that the outlook for accepting these idols into our cybernetic consciousness varies from the utopian to the orwellian largeley depending on: how much control we (the citizens of idol-mediated societies) have over the behavior of our devices and idols; and how transparent (to us) the mechanisms governing these behaviors are. But before we can discuss the qualities of these computational artifacts we should discuss what kinds of artifacts we expect to see.
-
-    \begin{enumerate}
-        \item radical transparency - big brother and little brother
-        \item means of production 2 - factories vs 3d printers
-        \item battle of the heavens - corporate clouds vs govt clouds vs community clouds
-        \item digital serfdom and device transparency
-    \end{enumerate}
 
 
 
