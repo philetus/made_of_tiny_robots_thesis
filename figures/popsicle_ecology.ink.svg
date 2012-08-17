@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1902.7644"
-   height="1020.6986"
+   width="1860.2448"
+   height="971.09229"
    id="svg6969"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="popsicle_ecosystem.ink.svg">
+   sodipodi:docname="popsicle_ecology.ink.svg">
   <defs
      id="defs6971" />
   <sodipodi:namedview
@@ -26,19 +26,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="964.85472"
-     inkscape:cy="621.03804"
+     inkscape:cx="943.59485"
+     inkscape:cy="592.69156"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     fit-margin-top="12"
-     fit-margin-left="12"
-     fit-margin-right="12"
-     fit-margin-bottom="16"
-     inkscape:window-width="1024"
-     inkscape:window-height="576"
-     inkscape:window-x="0"
+     fit-margin-top="6"
+     fit-margin-left="6"
+     fit-margin-right="6"
+     fit-margin-bottom="8"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,7 +57,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(1043.1876,-12.676265)">
+     transform="translate(1021.9277,-33.936107)">
     <g
        transform="translate(2152.7646,199.22418)"
        id="g20831">
