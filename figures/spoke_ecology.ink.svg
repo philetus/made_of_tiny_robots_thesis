@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.41459741"
-     inkscape:cx="1135.0443"
-     inkscape:cy="1013.6813"
+     inkscape:zoom="0.58632928"
+     inkscape:cx="1449.9127"
+     inkscape:cy="669.78616"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4451,7 +4451,7 @@
            style="font-size:40px;font-style:normal;font-weight:bold;fill:#ffffff;fill-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold"
            y="1020.8319"
            x="-2177.0728"
-           sodipodi:role="line">L</tspan></text>
+           sodipodi:role="line">M</tspan></text>
     </g>
     <g
        transform="translate(2446.1806,-54.078138)"
@@ -6161,7 +6161,7 @@
            style="font-size:40px;font-style:normal;font-weight:bold;fill:#ffffff;fill-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold"
            y="1013.9138"
            x="-1536.3446"
-           sodipodi:role="line">M</tspan></text>
+           sodipodi:role="line">L</tspan></text>
     </g>
     <g
        transform="translate(2302.1481,219.63321)"

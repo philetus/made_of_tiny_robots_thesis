@@ -14,8 +14,7 @@ In Section~\ref{sec:artifact_ecologies} we describe the responsive artifact ecol
 We suggest that one of the key distinctions between these different ecologies is the roles that are available for members of each society to play; ecologies structured around more transparent technological mechanisms and more reconfigurable artifacts will present more opportunities for people to adopt roles that shape the behavior of their environment. 
 Of particular interest is what we are calling a robunculi ecology: manufacturing is focused on producing robotic kits of parts rather than devices that perform a single role; these kits can either be assembled, or can self-assemble, into a variety of forms on demand. 
 
-To promote the potential for involving a wide spectrum of society in design roles we develop our ontology of robunculi further in Section~\ref{sec:robunculi_ontology}. 
-We examine in more detail the roles people can play in producing and using robunculi, and the interaction methods available for people adopting various roles.
+In Section~\ref{sec:interaction_modes} we enumerate the interaction modes available to people adopting each of the roles we have characterized in Section~\ref{sec:roles}. 
 
 
 \section{Kinds of Artifacts}
@@ -185,55 +184,97 @@ We call someone who considers the deep issues of a discipline, either to extend 
 In adopting the role of a wiz a person could be developing a new programming language, designing a computer chip, developing a new actuator, or creating a new rapid fabrication technology. 
 While people able to play such a role are generally prized in any artifact ecology, we suggest that expanding the community of teks has the potential to develop a greater number of wizs, thus advancing the capabilities of the entire ecology.
 
-\section{Examples of Artifact Ecologies}
+\section{Artifact Ecologies and Roles}
 \label{sec:artifact_ecologies}
 %
-\subsection{nodes of power}
-        \begin{enumerate}
-            \item manufacturing
-            \item data transmission
-            \item data stores
-            \item shrines (high-powered computing clusters)
-            \item leaf node control
-        \end{enumerate}
-        
+In Chapter~\ref{ch:intro} we characterized several emerging ecologies in which responsive artifacts can be produced and deployed. We suggested that these ecologies differ significantly in the level of control average citizens have over the behavior of the artifacts in their environment. Here we detail the roles available to people within these ecological niches and discuss the effect these differences have on empowering people to participate in specifying the behavior of their robotic companions (or not).
+
+We illustrate the relations of production and roles in these ecologies with some diagrams. These diagrams focus on entities that make a meaningful contribution to specifying the behavior of artifacts, and the roles people adopt in doing so. These diagrams present a relatively crude picture of complex phenomena, but even so serve to illustrate some striking differences.
+
 \subsection{Popsicle Ecologies}
 %
 \begin{figure}[b!]
   \centering
-    \includegraphics[width=130mm]{popsicle_ecosystem.pdf}
+    \includegraphics[width=130mm]{popsicle_ecology.pdf}
   \caption{Production and roles within a popsicle ecology.}
   \label{fig:popsicle_ecology}
 \end{figure}
 %
+This ecology is the simplest---there are relatively few people involved in creating artifacts, and relatively few roles available for non-professionals to adopt in relation to their artifacts.
+Figure~\ref{fig:popsicle_ecology} depicts the development of a hypothetical popsicle, a table with a crystal embedded in the surface.
+The hardware is developed internally by a single company (Figure~\ref{fig:popsicle_ecology} at \emph{B}). The design leverages a few reusable packages developed internally by the company's toolers, but is largely developed by company teks drawing on previous design iterations. The device is built around  a \textbf{system on chip (SoC)} organelle%
+\footnote{An example is Qualcomm's Snapdragon that handles processing, graphics, and both cellular and wifi networking for crystals.}
+developed by circuit wizzes employed at an organelle corporation (\emph{C}).
+This hardware is then combined with an operating system developed for tabletop crystals by language wizzes at a software company (\emph{A}).%
+\footnote{Another device company developed the software for its competing iTable internally.} 
+Both the device and its organelles are produced and assembled (and loaded with software) by toolers and teks at specialized manufacturers (\emph{G}) that operate enormous factories. 
+The high cost of the specialized buildings and tools (especially for producing organelles) is amortized over the large number of devices produced.
+
+Several versions of this table crystal are produced, including a professional model for electronic musicians and another version marketed for home use. The professional version is used by wranglers to perform shows (\emph{F}) for a group of tasters. The other version is used by tasters at home (\emph{E}). In this ecology wranglers and tasters have no direct input on the behavior of their table crystals, but can post their opinion on blogs or online forums (\emph{D}). Teks and toolers at the device companies can follow these posts with the assistance of idols and can potentially consider this input.
 
 \subsection{Spoke Ecologies}
 %
 \begin{figure}[b!]
   \centering
-    \includegraphics[width=130mm]{spoke_ecosystem.pdf}
+    \includegraphics[width=130mm]{spoke_ecology.pdf}
   \caption{Production and roles within a spoke ecology.}
   \label{fig:spoke_ecology}
 \end{figure}
-
 %
+With spoke ecologies  (Figure~\ref{fig:spoke_ecology}) we see the emergence of online repositories---for both code (\emph{G}) and hardware specs (\emph{H})---as a means of coordinating a distributed, open design process. The wizzes of open code development organizations engage with a community of volunteer language hacker wizzes (\emph{J}) as well as the toolers and teks making use of their code (\emph{C}, \emph{D} and \emph{K}).
+
+These ecologies are defined by a shift from devices produced by large manufacturers (\emph{F}) to custom built devices assembled in neighborhood fabs (\emph{I}). 
+Large manufacturers still produce organelles, which are still designed by wizzes at organelle companies (\emph{B}). Organelles are packaged in open hardware modules (such as the Arduino). 
+Many parties may contribute to a design from academic labs%
+\footnote{Such as New York University's Interactive Telecommunications Program  and the now defunct Interaction Design Institute Ivrea that incubated the Arduino project.}
+to online retailers%
+\footnote{Such as Adafruit, Sparkfun and Seeed Studio.},
+to individual device hackers.
+By coordinating through online hardware repositories (\emph{H}) these parties may contribute original designs, modify existing designs, manufacture modules, or all three.
+
+The facilities for combining open software and open hardware modules to create a spoke are provided at local fab shops (\emph{I}).
+These facilities feature rapid prototyping tools, many of which are themselves open hardware designs developed at academic research labs (\emph{E}) and produced at other local fab shops.
+Teks employed at these shops can provide advice and assistance on spoke projects for those with the technical know-how to produce their own designs, or can produce custom works on commission. 
+These custom designs can then be posted back to an open hardware repo to continue the design conversation, either by the local fab shop (\emph{I}) or the tasters and wranglers using them (\emph{L} and \emph{M}).
+
+As in a popsicle ecology, many of the parties in this scenario post on blogs and forums. We left that activity off of this diagram as all parties have more direct means of contributing to the design process. Of course, fewer people are able to participate in this ecology as to produce a spoke one must be able to either adopt the role of a tek or have the resources to commission a tek to produce it. Although these ecologies may not produce as many devices as a popsicle ecology, they help to teach more people the skills to contribute to the design space. This can in turn effect popsicle ecologies---for example there are several open source operating systems for popsicle crystals (distributed in a similar manner to spoke software) that motivated people can load onto their devices to customize their behavior.
 
 \subsection{Robunculi Ecologies}
 %
 \begin{figure}[b!]
   \centering
-    \includegraphics[width=\textwidth]{robunculi_ecosystem.pdf}
+    \includegraphics[width=\textwidth]{robunculi_ecology.pdf}
   \caption{Production and roles within a robunculi ecology.}
   \label{fig:robunculi_ecology}
 \end{figure}
 %
+To simplify this already complex scenario---illustrated in Figure~\ref{fig:robunculi_ecology}---we are supposing that corner fab shops (\emph{I}) have advanced open hardware fabricators (developed by open fabricator development labs at \emph{E}) capable of printing out circuits and structural components.
+By feeding in the appropriate organelles and feedstock such a machine could print a functional bunkle with little or no manual assembly required.
+As a result relatively large numbers of bunkles can be produced on demand in local fabs and only organelles are still produced in large factories (\emph{F}).
+
+Our diagram of this technologically advanced robunculi ecology is still the most complex as there are so many roles capable of making contributions. 
+As in a spoke ecology there are online repositories for managing code (\emph{H}) and hardware specifications (\emph{I}).
+There is also a new class of repository for fig specifications created by bunkle research labs (\emph{D}), behavior research labs (with wizzes working to create reusable modules to support figs and hyperfigs at \emph{G}) and open fig organizations (which employ toolers and teks to create new figs at \emph{L}). 
+Much as wiz language hackers working at home (\emph{M}) can contribute to online language repositories, wiz, tooler and tek fig hackers working at home can create new behaviors and figs.
+Robunculi ecologies also feature a new role which almost anyone can adopt to customize the behavior of a fig: by adopting the role of a tinker (\emph{P}) people can leverage specially designed tangible interfaces to adjust the form and behavior of a device. 
+These customizations can also be posted to the fig repository (\emph{K}) to give feedback on how figs are actually put to use.
+For performers, tinkering could become a part of the performance alongside wrangling (\emph{O}).
+
+Participating in a robunculi ecology is more accessible than participating in a spoke ecology as bunkle kits can be printed out on demand (or in a less technologically advanced scenario ordered online) rather than custom designed and built like spokes. These ecologies still provide many of the advantages of a spoke ecology as bunkle kits allow people to customize their device figs, and to share figs and customizations with others online.
+
+We suggest that robunculi ecologies actually complement spoke ecologies by lowering the barrier to becoming involved in the design of devices. 
+People who become interested in tinkering with their figs could visit their local fab shop to learn to produce their own bespoke bunkles to extend the functionality of their kits.
+As some of these new teks pursue their interests into the realms of tooling and wizdom the technical expertise of these communities could quickly expand.
 
 \subsection{Claytronic Ecologies}    
 %
+We have not produced a diagram of a claytronic ecology as the underlying technology is still being developed and it is not yet clear what form these ecologies will take. 
+A central question is whether clayticle organelles will be produced in local fabs, completing the transition to decentralized production; or will clayticles be churned out by super-sophisticated factory labs, invalidating the need for local fabs as every lump of this programmable matter is a self-contained mini-fab?
 
+Aside from the technology considerations we suggest that claytronic ecologies could vary significantly depending on whether they develop from popsicle or robunculi ecologies. Will lumps of programmable matter be shipped from the factory with a few preset hyperthous, or will they be able to download new behaviors from online repositories? Will these hyperthous present interfaces to afford tinkering? The organization of our artifact ecology could have as much influence on the implementation of claytronic systems as our technological advances.
 
-\section{Robunculi: an Ontology}
-\label{sec:robunculi_ontology}
+\section{Modes of Interaction by Role}
+\label{sec:interaction_modes}
     \begin{enumerate}
         \item robunculi typologies
         \begin{enumerate}
@@ -272,8 +313,13 @@ While people able to play such a role are generally prized in any artifact ecolo
         \end{enumerate}
     \end{enumerate}
 
+*** interface by role
 
-
+wiz - command line, temple, (avatar) tinkit, tower (lab)
+tooler and tek - bench, 
+tinker - tinkit, avatar
+wrangler - stick
+taster - avatar, idol
 
 
 
