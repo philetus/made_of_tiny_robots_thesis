@@ -1,0 +1,57 @@
+tool name | year debuted | paper title | authors
+
+turing test | 1950 | Computing Machinery and Intelligence | Alan Turing
+self-reproducing automata | 1966 | | von Neumann
+
+Logo | 1970~ | Mindstorms | Seymour Papert
+Game of Life | 1970 | Winning Ways for your Mathematical Plays | Elwyn R Berlekamp and John H Conway and Richard K Guy
+direct manipulation | 1983 | Direct Manipulation: A Step Beyond Programming Languages | Ben Shneiderman
+affordances | 1979 | The Ecological Approach to Visual Perception | James J Gibson
+
+society of mind | 1985 | The Society of Mind | Marvin Minsky
+
+stigmergy | 1995 | Modelling the Collective Building of Complex Architectures in Social Insects with Lattice Swarms | Guy Theraulaz and Eric Bonabeau
+ubuquitous computing | 1999 | The Computer for the 21st Century | Mark Weiser
+
+
+LilyPad Arduino | 2008 | The LilyPad Arduino: Using Computational Textiles to Investigate Engagement, Aesthetics, and Diversity in Computer Science Education | Leah Beuchley and Mike Eisenberg and Jaime Catchen and Ali Crockett
+Arduino | 2007 | Arduino: An open electronics prototyping platform | David A Mellis and Massimo Banzi and David Cuartielles and Tom Igoe
+Wonderment Toolkit | 2008 | Objects of Wonderment | Eric Paulos and Tom Jenkins and August Joki and Parul Vora
+Phidgets | 2001 | Phidgets: easy development of physical interfaces through physical widgets | Saul Greenberg and Chester Fitchett
+Amorphous Computing | 2000 | Amorphous Computing | Harold Abelson and Don Allen and Daniel Coore and Chris Hanson and George Homsy and Knight, Jr, Thomas F and Radhika Nagpal and Erik Rauch and Gerald Jay Sussman and Ron Weiss
+Architectural Robotics | 2007 | Architectural Robotics: A New Paradigm for the Built Environment | Weller and Do
+rule compiler | 2003 | From local to global behavior in intelligent self-assembly | Chris Jones and Maja J Mataric
+telecube metamodule | 2002 | A complete, local and parallel reconfiguration algorithm for cube style modular robots | Serguei Vassilvitskii and Mark Yim and John Suh
+million module march | 2007 | Scalable Locomotion for Large Self-Reconfiguring Robots | Robert Fitch and Zach Butler
+hole motion planner | 2006 | Scalable Shape Sculpting Via Hole Motion: Motion Planning in Lattice-Constrained Module Robots | Michael De~Rosa and Seth Copen Goldstein and Peter Lee and Jason D Campbell and Padmanabhan Pillai
+metamodule planner | 2008 | Generalizing Metamodules to Simplify Planning in Modular Robotic Systems | Daniel J Dewey and Siddhartha S Srinivasa and Michael P Ashley-Rollman and Michael De~Rosa and Padmanabhan Pillai and Todd C Mowry and Jason D Campbell and Seth Copen Goldstein
+atron metamodule | 2004 | Metamodule Control for the ATRON Self-Reconfigurable Robotic System | David Johan Christensen and Kasper Stoy
+locally distributed predicates | 2008 | Programming Modular Robots with Locally Distributed Predicates | Michael De~Rosa and Seth Copen Goldstein and Peter Lee and Jason D Campbell and Padmanabhan Pillai
+meld | 2007 | Meld: A Declarative Approach to Programming Ensembles | 
+directed growth | 2004 | Self-reconfiguration Using Directed Growth | Kasper Stoy and Radhika Nagpal
+graph grammars | 2006 | A grammatical approach to self-organizing robotic systems | Eric Klavins and Robert Ghrist and David Lipsky
+Scratch | 2009 | Scratch: Programming for All | Mitchel Resnick and John Maloney and Andres Monroy Hernandez and Natalie Rusk and Evelyn Eastmond and Karen Brennan and Amon Millner and Eric Rosenbaum and Jay Silver and Brian Silverman and Yasmin Kafai
+reactivision | 2007 | reacTIVision: a computer-vision framework for table-based tangible interaction | Martin Kaltenbrunner and Ross Bencina
+ambient touch | 2002 | Ambient touch: designing tactile interfaces for handheld devices | Ivan Poupyrev and Shigeaki Maruyama and Jun Rekimoto
+VoodooIO | 2007 | A malleable control structure for softwired user interfaces | Nicolas Villar and Hans Gellerson
+folded millirobots | 2008 | Fast scale prototyping for folded millirobots | Aaron M Hoover and Ronald S Fearing
+Fab@Home | 2007 | Fab@Home: the personal desktop fabricator kit | Evan Malone and Hod Lipson
+RepRap | 2007 | RepRap--the replicating rapid prototyper | Rhys Jones and Patrick Haufe and Ed Sells and Pejman Iravani and Vik Olliver and Chris Palmer and Adrian Bowyer
+
+
+hyperform specification | 2011 | Hyperform Specification... | weller and gross and goldstein
+Sourcemap | 2010 | Small business applications of sourcemap: a web tool for sustainable design and supply chain transparency | Leonardo Bonanni and Matthew Hockenberry and David Zwarg and Chris Chris Csikszentmihalyi and Hiroshi Ishii
+load-based fluid assembly planner | 2011 | Evolutionary Design and Assembly Planning for Stochastic Modular Robots | Michael Tolley and Jonathan Hiller and Hod Lipson
+pingpong++ | 2011 | PingPong++: community customization in games and entertainment | Xiao Xiao and Michael S Bernstein and Lining Yao and David Lakatos and Lauren Gust and Kojo Acquah and Hiroshi Ishii
+silicone sensors | 2011 | Sensing through structure: designing soft silicone sensors | Ronit Slyper and Ivan Poupyrev and Jessica Hodgins
+g-stalt | 2010 | g-stalt: a chirocentric, spatiotemporal, and telekinetic gestural interface | Jamie Zigelbaum and Alan Browning and Daniel Leithinger and Olivier Bau and Hiroshi Ishii
+communiclay | 2011 | Communiclay: a modular system for tangible telekinetic communication | Hayes Raffle and Ruibing Wang and Karim Seada and Hiroshi Ishii
+IO Stickers | 2011 | Sticking together: handcrafting personalized communication interfaces | Natalie Freed and Jie Qi and Adam Setapen and Cynthia Breazeal and Leah Buechley and Hayes Raffle
+modkit | 2011 | Modkit: blending and extending approachable platforms for creating computer programs and interactive objects | Amon Millner and Edward Baafi
+diybio | 2012 | At the seams: DIYbio and opportunities for HCI | Stacey Kuznetsov and Alex S Taylor and Tim Regan and Nicolas Villar and Eric Paulos
+Plushbot | 2011 | Plushbot: an application for the design of programmable, interactive stuffed toys | Yingdan Huang and Mike Eisenberg
+red balloon, green balloon | 2011 | Red balloon, green balloon, sensors in the sky | Stacey Kuznetsov and George Davis Noel and Eric Paulos and Mark D Gross and Jian Chiu Cheung
+Touche | 2012 | Touche: enhancing touch interaction on humans, screens, liquids, and everyday objects | Munehiko Sato and Ivan Poupyrev and Chris Harrison
+printable sensing skin | 2012 | Towards a Minimal Architecture for a Printable, Modular, and Robust Sensing Skin | Austin Buchan and Jonathan Bachrach and Ronald S Fearing
+
+

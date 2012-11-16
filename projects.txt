@@ -1,0 +1,110 @@
+project name | year debuted | paper title | authors
+
+froebels gifts | 190? |
+montessori materials | 190? |
+tinkertoy
+legos
+erector (meccanoo)
+zoob
+kinex
+
+logo turtle | 1975~ | 
+slot machine | 1981 |  | radia perlman
+computerised building block system | 1979 | 3D Input for CAAD Systems | Robert Aish
+universal constructor | 1989 | an evolutionary architecture | frazer
+
+Monkey | 1995 | Of mice and monkeys: A specialized input device for virtual body animation | Chris Esposito and W Bradford Paley and and JueyChong Ong
+Triangles | 1997 | Triangles: Design of a Physical/Digital Construction Kit | Matthew G Gorbet and Maggie Orth
+Crickets | 1998 | Digital manipulatives: new toys to think with | Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman
+Programmable Beads | 1998 | Digital manipulatives: new toys to think with |Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman
+BitBalls | 1998 | Digital manipulatives: new toys to think with |Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman
+Thinking Tags | 1998 | Digital manipulatives: new toys to think with |Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman
+algoblocks | 1995 | Interaction-level support for collaborative learning: AlgoBlock---an open programming language | Hideyuki Suzuki and Hiroshi Kato
+Programmable Bricks | 1996 | Programmable bricks: Toys to think with | Mitchel Resnick and Fred Martin and Randy Sargent and Brian Silverman
+self-describing building blocks | 1999 | Building Virtual Structures with Physical Blocks | David Anderson and James L Frankel and Joe Marks and Darren Leigh and Kathy Ryall and Eddie Sullivan and Jonathan Yedidia
+Tetrobot | 1997 | TETROBOT: a modular approach to parallel robotics | Gregory J Hamlin and Arthur C Sanderson
+Fracta | 1994 | Self-assembling machine | Satoshi Murata and Haruhisa Kurokawa and Shigeru Kokaji
+3-D self-reconfigurable structure | 1998 | A 3-D Self-Reconfigurable Structure | Satoshi Murata and Haruhisa Kurokawa and Eiichi Yoshida and Kohji Tomita and Shigeru Kokaji
+Robotic Molecule | 1998 | The self-reconfiguring robotic molecule | Keith Kotay and Daniela Rus and Marsette Vona and Craig McGray
+Metamorphic Robot | 1996 | Design and implementation of metamorphic robots | Amit Pamecha and Chih-Jung Chiang and David Stein and Gregory Chirikjian
+InTouch | 1998 | Tangible Interfaces for Remote Collaboration and Communication | Scott Brave and Hiroshi Ishii and Andrew Dahley
+Urp | 1999 | Urp: a luminous-tangible workbench for urban planning and design | John Underkoffler and Hiroshi Ishii
+
+
+Posey | 2008 | Posey: instrumenting a poseable hub and strut construction toy | Michael Philetus Weller and Ellen Yi-Luen Do and Mark D Gross
+Speech-Enabled Alphabet Blocks | 2002 | Computationally-Enhanced Construction Kits for Children: Prototype and Principles | Mike Eisenberg and Ann Eisenberg and Mark D Gross and Khomkrit Kaowthumrong and Nathaniel Lee and Will Lovet
+Topobo | 2004 | Topobo: A constructive assembly system with kinetic memory | Hayes Solos Raffle and Amanda J Parkes and Hiroshi Ishii
+roBlocks (Cubelets) | 2006 | roBlocks: a robotic construction kit for mathematics and science education | Eric Schweikardt and Mark D Gross
+ActiveCube | 2004 | The Soul of ActiveCube - Implementing a Flexible, Multimodal, Three-Dimensional Spatial Tangible Interface | Ryoichi Watanabe and Yuichi Itoh and Masatsugu Asai and Yoshifumi Kitamura and Fumio Kishino and Hideo Kikuchi
+Curlybot | 2000 | Curlybot: Designing a New Class of Computational Toys | Phil Frei and Victor Su and Bakhtiar Mikhak and Hiroshi Ishii
+SmartTiles | 2004 | Computation and Construction Kits: Toward the Next Generation of Tangible Building Media for Children | Nwanua Elumeze and Mike Eisenberg
+Smart Blocks | 2007 | Smart Blocks: A Tangible Mathematical Manipulative | Audrey Girouard and Erin Treacy Solovey and Leanne M Hirshfield and Stacey Ecott and Orit Shaer and Robert J K Jacob
+Glume | 2006 | Glume: exploring materiality in a soft augmented modular modeling system | Amanda J Parkes and Vincent LeClerc and Hiroshi Ishii
+Senspectra | 2007 | Senspectra: a computationally augmented physical modeling toolkit for sensing and visualization of structural strain | Vincent LeClerc and Amanda J Parkes and Hiroshi Ishii
+Tern | 2007 | Tangible programming in the classroom with tern | Michael S Horn and Robert J K Jacob
+Pico | 2007 | Mechanical constraints as computational constraints in tabletop tangible interfaces | James Patten and Hiroshi Ishii
+Jabberstamp | 2007 | Jabberstamp: embedding sound and voice in traditional drawings | Hayes Solos Raffle and Cati Vaucelle and Ruibing Wang and Hiroshi Ishii
+Handsaw | 2008 | Handsaw: Tangible Exploration of Volumetric Data by Direct Cut-Plane Projection | Leonardo Bonanni and Jason Alonso and Greg Vargas and Neil Chao and Hiroshi Ishii
+FlowBlocks | 2005 | Extending tangible interfaces for education: digital montessori-inspired manipulatives | Oren Zuckerman and Saeed Arida and Mitchel Resnick
+Navigational Blocks | 2002 | Navigational blocks: navigating information space with tangible media | Ken Camarata and Ellen Yi-Luen Do and Brian R Johnson and Mark D Gross
+Programmable Matter | 2005 | Programmable Matter | Seth Copen Goldstein and Jason D Campbell and Todd C Mowry
+Shady | 2006 | Hierarchical control for self-assembling mobile trusses with passive and active links | Carrick Detweiler and Marsette Vona and Keith Kotay and Daniela Rus
+Crystalline Atom | 2001 | Crystalline robots: Self-reconfiguration with compressible unit modules | Marsette Vona and Daniela Rus
+Odin | 2008 | Mechanical design of odin, an extendable heterogeneous deformable modular robot | Andreas Lyder and Ricardo Franco Mendoza Garcia and Kasper Stoy
+Telecube | 2002 | Telecubes: mechanical design of a module for self-reconfigurable robotics | John W Suh and Samuel B Homans and Mark Yim
+ATRON | 2004 | Modular ATRON: modules for a self-reconfigurable robot | Morten Winkler Jorgensen and Esben Hallundbaek Ostergaard and Henrik Hautop Lund
+M-TRAN | 2002 | M-TRAN: self-reconfigurable modular robotic system | Satoshi Murata and Eiichi Yoshida and Akiya Kamimura and Haruhisa Kurokawa and Kohji Tomita and Shigeru Kokaji
+Proteo | 2001 | Distributed Control for 3D Metamophosis | Mark Yim and Ying Zhang and John Lamping and Eric Mao
+programmable parts | 2006 | A grammatical approach to self-organizing robotic systems | Eric Klavins and Robert Ghrist and David Lipsky
+CKBot | 2007 | Towards robotic self-reassembly after explosion | Mark Yim and Babak Shirmohammadi and Jimmy Sastra and Mike Park and Mike Dugan and C J Taylor
+PolyBot | 2000 | PolyBot: a modular reconfigurable robot | Mark Yim and David G Duff and Kimon D Roufas
+Siftables (Sifteo) | 2007 | Siftables: Towards Sensor Network User Interfaces | David Merrill and Jeevan Kalanithi and Pattie Maes
+Molecubes | 2007 | Evolved and Designed Self-Reproducing Modular Robotics | Victor Zykov and Efstathios Mytilinaios and Mark Desnoyer and Hod Lipson
+Planar Catoms | 2007 | A modular robotic system using magnetic force effectors | Brian T Kirby and Burak Aksak and Jason D Campbell and Jim F Hoburg and Todd C Mowry and Padmanabhan Pillai and Seth Copen Goldstein
+Easigami | 2009 | Easigami: A reconfigurable folded-sheet TUI in 3D | Yingdan Huang and Mark D Gross and Ellen Yi-Luen Do and Mike Eisenberg
+Electronic Blocks | 2001 | Electronic Blocks: Tangible Programming Elements for Preschoolers | Peta Wyeth and Gordon Wyeth
+CONRO | 2000 | CONRO: Towards Deployable Robots with Inter-Robots Metamorphic Capabilities | Andres Castano and Wei-Min Shen and Peter Will
+Prismatic Cubes | 2009 | Design of Prismatic Cube Modules for Convex Corner Traversal in 3D | Michael Philetus Weller and Brian T Kirby and H Benjamin Brown and Mark D Gross and Seth Copen Goldstein
+BigDog | 2008 | BigDog, the rough-terrain quadruped robot | Marc Raibert and Kevin Blankespoor and Gabriel Nelson and Rob Playter
+LittleBits | 2009 | Electronics as material: littleBits | Ayah Bdeir
+N-Smarts | 2009 | N-smarts: networked suite of mobile atmospheric real-time sensors | Richard J Honicky and Eric Brewer and Eric Paulos and Richard White
+Hug | 2003 | The Hug: an exploration of robotic form for intimate communication | Carl DiSalvo and Francine Gemperle and Jodi Forlizzi and Elliott Montgomery
+oil bots? | 2007 | Experiment Design for Stochastic Three-Dimensional Reconfiguration of Modular Robots | Victor Zykov and Hod Lipson
+Morpho | 2008 | Morpho: A self-deformable modular robot inspired by cellular structure | Chih-Han Yu and Kristina Haller and Donald Ingber and Radhika Nagpal
+Connectibles | 2008 | Connectibles: tangible social networks | Jeevan J Kalanithi and Bove, Jr, V Michael
+Hapticat | 2005 | Hapticat: exploration of affective touch | Steve Yohanan and Mavis Chan and Jeremy Hopkins and Haibo Sun and Karon MacLean
+Stress Outsourced | 2009 | Stress outsourced: a haptic social network via crowdsourcing | Keywon Chung and Carnaven Chiu and Xiao Xiao and Pei-Yu (Peggy) Chi | 
+I/O Brush | 2004 | I/O brush: drawing with everyday objects as ink | Kimiko Ryokai and Stefan Marti and Hiroshi Ishii
+Lumen | 2004 | Lumen: interactive visual and shape display for calm computing | Ivan Poupyrev and Tatsushi Nashida and Shigeaki Maruyama and Jun Rekimoto and Yasufumi Yamaji
+ReacTable | 2003 | The reacTable: exploring the synergy between live music performance and tabletop tangible interfaces | Sergi Jorda and Gunter Geiger and Marcos Alonso and Martin Kaltenbrunner
+SpeakCup | 2008 | SpeakCup: simplicity, BABL, and shape change | Jamie Zigelbaum and Angela Chang and James Gouldstone and Joshua Jen Monzen and Hiroshi Ishii
+Slurp | 2009 | Slurp: Tangibility, Spatiality, and an Eyedropper | Jamie Zigelbaum and Alejandro Vazquez and Adam Kumpf and Hiroshi Ishii
+Illuminating Clay | 2002 | Illuminating Clay: A 3-D Tangible Interface for Landscape Analysis | Ben Piper and Carlo Ratti and Hiroshi Ishii
+MusicBottles | 2001 | Bottles as a minimal interface to access digital information | Hiroshi Ishii and Ali Mazalek and Jay Lee
+Huggable | 2009 | Real-time social touch gesture recognition for sensate robots | Heather Knight and Robert Toscano and Walter D Stiehl and Angela Chang and Yi Wang and Cynthia Breazeal
+squirrel phone | 2005 | Physical embodiments for mobile communication agents | Stefan Marti and Chris Schmandt
+
+
+Smart Pebbles | 2010 | Robot Pebbles: One Centimeter Modules for Programmable Matter through Self-Disassembly | Kyle Gilpin and Ara Knaian and Daniela Rus
+Thor | 2012 | On Sub-Modularization and Morphological Heterogeneity in Modular Robotics | Andreas H Lyder and Kasper Stoy and Ricardo Franco Mendoza Garcia and Jorgen Christian Larsen and Palle Hermansen
+Roombot | 2010 | Roombots: Reconfigurable Robots for Adaptive Furniture | Alexander Sprowitz and Soha Pouya and Stephane Bonardi and Jesse van den Kieboom and Rico Mockel and Aude Billard and Pierre Dillenbourg and Auke Ijspeert
+KidCAD | 2012 | KidCAD: digitally remixing toys through tangible tools | Sean Follmer and Hiroshi Ishii
+LocoKit | 2012 | LocoKit: A Robot Construction Kit for Studying and Developing Functional Morphologies | Jorgen Christian Larsen and David Brandt and Kasper Stoy
+NeonDough | 2012 | NeonDough: crafting with interactive lighted clay | Junichi Yamaoka and Yasuaki Kakehi
+Replay | 2012 | Replay: a self-documenting construction kit | Tiffany Tseng and Robert Hemsley and Mitchel Resnick
+Recompose | 2011 | Recompose: direct and gestural interaction with an actuated surface | Matthew Blackshaw and Anthony DeVincenzi and David Lakatos and Daniel Leithinger and Hiroshi Ishii
+Vacuubes | 2011 | A vacuum-based bonding mechanism for modular robotics | Ricardo Franco Mendoza Garcia and Jonathan D Hiller and Kasper Stoy and Hod Lipson
+Fab FM | 2011 | Fab FM: the design, making, and modification of an open-source electronic product | David A Mellis and Dana Gordon and Leah Buechley
+cell toaster | 2011 | Pop goes the cell phone: asynchronous messaging for preschoolers | Hayes Raffle and Rafael Ballagas and Glenda Revelle and Koichi Mori and Hiroshi Horii and Chris Paretti and Mirjana Spasojevic
+Lega | 2011 | The LEGA: a device for leaving and finding tactile traces | Jarmo Laaksolahti and Jakob Tholander and Marcus Lunden and Jordi Solsona Belenguer and Anna Karlsson and Tove Jaensson
+TessalTable | 2011 | TessalTable: tile-based creation of patterns and images | Abel Allison and Sean Follmer and Hayes Raffle
+Six-Forty by Four-Eighty | 2011 | Six-forty by four-eighty: the post-industrial design of computational materials | Marcelo Coelho and Jamie Zigelbaum and Joshua Kopin
+Raymatic | 2011 | The RayMatic: a thermostat with a human face | Ray Yun and Mark D Gross
+Pillow-talk | 2011 | Pillow-talk: seamless interface for dream priming, recalling and playback | Edwina Portocarrero and David Cranor and V Michael Bove
+stereoblocks | 2011 | Constructing virtual 3D models with physical building blocks | Ricardo Jota and Hrvoje Benko
+SMORES | 2012 | Emulating Self-reconfigurable Robots - Design of the SMORES System | Jay Davey and Ngai Kwok and Mark Yim
+Reading Glove | 2010 | The Reading Glove: designing interactions for object-based tangible storytelling | Joshua Tanenbaum and Karen Tanenbaum and Alissa Antle
+Mechanix | 2011 | Mechanix: an interactive display for exploring engineering design through a tangible interface | Tiffany Tseng and Coram Bryant and Paulo Blikstein
+Blinky Blocks | 2011 | Blinky blocks: a physical ensemble programming platform | Brian T Kirby and Michael P Ashley-Rollman and Seth Copen Goldstein
+
+

@@ -2,6 +2,7 @@
 @string{IEEE = "IEEE"}
 @string{CHI = "Human Factors in Computing (CHI)"}
 @string{EXTCHI = "Ext. Abstracts of " # CHI}
+@string{ALTCHI = "alt.chi at " # CHI}
 @string{UIST = "User Interface Software and Technology (UIST)"}
 @string{DIS = "Designing Interactive Systems (DIS)"}
 @string{ICMI = "Intl Conf on Multimodal Interfaces (ICMI)"}
@@ -15,9 +16,11 @@
 @string{CSCW = "Computer Supported Collaborative Work (CSCW)"}
 @string{AH = "Augmented Human (AH)"}
 @string{ICLS = "Intl Conf of the Learning Sciences (ICLS)"}
+@string{UBICOMP = "Ubiquitous Computing (Ubicomp)"}
+@string{SIGGRAPH = "Special Interest Group on Computer Graphics and Interactive Techniques (SIGGRAPH)"}
 
 @inproceedings{anderson_uist1999,
-  author = {Anderson, D and Frankel, J and Marks, J and Leigh, D and Ryall, K and Sullivan, E and Yedidia, J},
+  author = {David Anderson and James L Frankel and Joe Marks and Darren Leigh and Kathy Ryall and Eddie Sullivan and Jonathan Yedidia},
   title = {Building Virtual Structures with Physical Blocks},
   booktitle = UIST,
   publisher = ACM,
@@ -61,7 +64,7 @@
 }
 
 @inproceedings{roblocks,
- author = {Schweikardt, Eric and Gross, Mark D},
+ author = {Eric Schweikardt and Mark D Gross},
  title = {{roBlocks}: a robotic construction kit for mathematics and science education},
  booktitle = ICMI,
  publisher = ACM,
@@ -107,6 +110,17 @@
  pages = {40--50}
 }
 
+@article{programmable_bricks,
+  author = {Mitchel Resnick and Fred Martin and Randy Sargent and Brian Silverman},
+  title = {Programmable bricks: Toys to think with},
+  journal = {IBM Systems journal},
+  volume = {35},
+  number = {3.4},
+  pages = {443--452},
+  year = {1996},
+  publisher = {IBM}
+}
+
 @inproceedings{resnick_chi1998,
  author = {Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman},
  title = {Digital manipulatives: new toys to think with},
@@ -128,7 +142,7 @@
 }
 
 @inproceedings{eisenberg_celda2004,
-  author = {Eisenberg, Mike and Buecheley, Leah and Elumeze, Nwanua},
+  author = {Mike Eisenberg and Leah Buecheley and Nwanua Elumeze},
   title = {Computation and Construction Kits: Toward the Next Generation of Tangible Building Media for Children},
   booktitle = {Cognition and Exploratory Learning in Digital Age (CELDA)},
   year = 2004,
@@ -197,7 +211,7 @@
   title = {An Optocoupled Poseable Ball and Socket Joint for Computationally Enhanced Construction Kits},
   booktitle = {Robot Communication and Coordination (Robocomm)},
   year = {2009},
-  pages = {(to appear)}
+  pages = {1--6}
 }
 
 @book{mindstorms,
@@ -308,7 +322,7 @@
 }
 
 @inproceedings{patten_chi2007,
-  author = {Patten, James and Ishii, Hiroshi},
+  author = {James Patten and Hiroshi Ishii},
   title = {Mechanical constraints as computational constraints in tabletop tangible interfaces},
   booktitle = CHI,
   publisher = ACM,
@@ -317,7 +331,7 @@
 }
 
 @inproceedings{algoblock,
-  author = {Suzuki, Hideyuki and Kato, Hiroshi},
+  author = {Hideyuki Suzuki and Hiroshi Kato},
   title = {Interaction-level support for collaborative learning: AlgoBlock---an open programming language},
   booktitle = {Computer Support for Collaborative Learning (CSCL)},
   publisher = {L. Erlbaum Associates},
@@ -353,7 +367,7 @@
 }
 
 @inproceedings{navblocks,
-  author = {Camarata, Ken and Do, Ellen Yi-Luen and Johnson, Brian R and Gross, Mark D},
+  author = {Ken Camarata and Ellen Yi-Luen Do and Brian R Johnson and Mark D Gross},
   title = {Navigational blocks: navigating information space with tangible media},
   booktitle = IUI,
   publisher = ACM,
@@ -381,24 +395,14 @@
 }
 
 @article{goldstein_computer2005,
-  author={Goldstein, Seth Copen and Campbell, Jason D and Mowry, Todd C},
-  title={Programmable Matter},
-  journal={IEEE Computer},
-  venue={IEEE Computer},
-  volume={38},
-  number={6},
-  pages={99--101},
-  year={2005},
-  month={June},
-}
-
-@inproceedings{detweiler_icra2006,
-   Author = {Carrick Detweiler and Marsette Vona and Keith Kotay and Daniela Rus},
-   Title = {Hierarchical control for self-assembling mobile trusses with passive and active links},
-   BookTitle = ICRA,
-   Publisher = IEEE,
-   Pages = {1483--1490},
-   Year = {2006}
+  author = {Seth Copen Goldstein and Jason D Campbell and Todd C Mowry},
+  title = {Programmable Matter},
+  journal = {Computer},
+  publisher = IEEE,
+  volume = {38},
+  number = {6},
+  year = {2005},
+  pages = {99--101},
 }
 
 @article{crystalline_atom,
@@ -413,13 +417,12 @@
 
 @inproceedings{odin,
   title = {Mechanical design of odin, an extendable heterogeneous deformable modular robot},
-  author = {Andreas Lyder and R Garcia and Kasper Stoy},
+  author = {Andreas Lyder and Ricardo Franco Mendoza Garcia and Kasper Stoy},
   booktitle = IROS,
   publisher = IEEE,
   year = {2008},
   pages = {883--888}
 }
-
 
 @inproceedings{telecube,
    Author = {John W Suh and Samuel B Homans and Mark Yim},
@@ -450,7 +453,7 @@
 }
 
 @inproceedings{atron,
-   author = {Morten Winkler Jorgensen and Esben Hallundbaek ostergaard and Henrik Hautop Lund},
+   author = {Morten Winkler Jorgensen and Esben Hallundbaek Ostergaard and Henrik Hautop Lund},
    title = {Modular ATRON: modules for a self{}-reconfigurable robot},
    booktitle = IROS,
    publisher = IEEE,
@@ -569,21 +572,21 @@
 }
 
 @article{million_module_march,
-  author={Fitch, Robert and Butler, Zack},
-  title={Million Module March: Scalable Locomotion for Large Self{}-Reconfiguring Robots},
-  journal={Intl. Journal of Robotics Research},
-  volume={27},
-  number={3--4},
-  pages={331--343},
-  year={2008}
+  author = {Fitch, Robert and Butler, Zack},
+  title = {Million Module March: Scalable Locomotion for Large Self{}-Reconfiguring Robots},
+  journal = {Intl Journal of Robotics Research},
+  volume = {27},
+  number = {3--4},
+  pages = {331--343},
+  year = {2008}
 }
 
 @inproceedings{pamecha_detc1996,
-  title={Design and implementation of metamorphic robots},
-  author={Pamecha, Amit and Stein, David and Chirikjian, Gregory},
-  booktitle={Design Engineering Technical Conf and Computers in Engineering Conf},
-  publisher={ASME},
-  year={1996}
+  title = {Design and implementation of metamorphic robots},
+  author = {Amit Pamecha and Chih-Jung Chiang and David Stein and Gregory Chirikjian},
+  booktitle = {Design Engineering Technical Conf and Computers in Engineering Conf},
+  publisher = {ASME},
+  year = {1996}
 }
 
 @inproceedings{christensen_icra2006,
@@ -605,17 +608,19 @@
 
 @inproceedings{ldp,
   title = {Programming Modular Robots with Locally Distributed Predicates},
-  author = {De~Rosa, Michael and Goldstein, Seth Copen and Lee, Peter and Campbell, Jason D and Pillai, Padmanabhan},
+  author = {Michael De~Rosa and Seth Copen Goldstein and Peter Lee and Jason D Campbell and Padmanabhan Pillai},
   booktitle = ICRA,
   publisher = IEEE,
   year = {2008}
 }
 
 @inproceedings{meld,
-  title={Meld: A Declarative Approach to Programming Ensembles},
-  author={Ashley-Rollman, Michael P and Goldstein, Seth Copen and Lee, Peter and Mowry, Todd C and Pillai, Padmanabhan},
+  author = {Michael P Ashley-Rollman and Seth Copen Goldstein and Peter Lee and Todd C Mowry and Padmanabhan Pillai},
+  title = {Meld: A Declarative Approach to Programming Ensembles},
   booktitle = IROS,
-  year={2007}
+  publisher = IEEE,
+  year = {2007},
+  pages = {1--7},
 }
 
 @article{klavins_tac2006,
@@ -701,8 +706,8 @@
 }
 
 @article{molecubes,
-  title={Evolved and Designed Self-Reproducing Modular Robotics},
-  author={Victor Zykov and Efstathios Mytilinaios and Mark Desnoyer and Hod Lipson},
+  title = {Evolved and Designed Self-Reproducing Modular Robotics},
+  author = {Victor Zykov and Efstathios Mytilinaios and Mark Desnoyer and Hod Lipson},
   journal = {Trans on Robotics},
   publisher = {IEEE},
   volume = {23},
@@ -737,39 +742,21 @@
   pages = {120--123}
 }
 
-@inproceedings{electromagnetic_catoms,
-  author={Brian T Kirby and Burak Aksak and Jason D Campbell and Jim F Hoburg and Todd C Mowry and Padmanabhan Pillai and Seth Copen Goldstein},
-  title={A modular robotic system using magnetic force effectors},
+@inproceedings{planar_catoms,
+  author = {Brian T Kirby and Burak Aksak and Jason D Campbell and Jim F Hoburg and Todd C Mowry and Padmanabhan Pillai and Seth Copen Goldstein},
+  title = {A modular robotic system using magnetic force effectors},
   booktitle = IROS,
   year = {2007},
   pages = {2787--2793}
 }
 
-@inproceedings{see-puck,
-  author = {Jacobsson, Mattias and Bodin, Johan and Holmquist, Lars Erik},
-  title = {The see-Puck: a platform for exploring human-robot relationships},
-  booktitle = CHI,
-  publisher = {ACM},
-  year = {2008},
-  pages = {141--144}
-}
-
-@inproceedings{graphmaster,
-  author = {Eric Schweikardt and Nwanua Elumeze and Mark D Gross and Mike Eisenberg},
-  title = {A Tangible Construction Kit for Exploring Graph Theory},
-  booktitle = TEI,
-  publisher = ACM,
-  year = {2009},
-  pages = {in press}
-}
-
-@inproceedings{easygami,
+@inproceedings{easigami,
   author = {Yingdan Huang and Mark D Gross and Ellen Yi-Luen Do and Mike Eisenberg},
-  title = {Easigami: A reconfigurable folded-sheet TUI in 3d},
+  title = {Easigami: A reconfigurable folded-sheet TUI},
   booktitle = TEI,
   publisher = ACM,
   year = {2009},
-  pages = {in press}
+  pages = {107--112}
 }
 
 @inproceedings{programmable_hinge,
@@ -782,11 +769,12 @@
 }
 
 @inproceedings{shady,
-  author={Carrick Detweiler and Marsette Vona and Keith Kotay and Daniela Rus},
-  title={Hierarchical control for self-assembling mobile trusses with passive and active links},
+  author = {Carrick Detweiler and Marsette Vona and Keith Kotay and Daniela Rus},
+  title = {Hierarchical control for self-assembling mobile trusses with passive and active links},
   booktitle = ICRA,
-  year={2006},
-  pages={1483--1490}
+  publisher = IEEE,
+  year = {2006},
+  pages = {1483--1490}
 }
 
 @book{gibson_1979,
@@ -808,7 +796,7 @@
 
 @article{conro,
   author = {Andres Castano and Wei-Min Shen and Peter Will},
-  title = {{CONRO}: Towards Deployable Robots with Inter-Robots Metamorphic Capabilities },
+  title = {{CONRO}: Towards Deployable Robots with Inter-Robots Metamorphic Capabilities},
   journal = {Autonomous Robotics},
   publisher = {Springer},
   volume = {8},
@@ -841,7 +829,7 @@
   title = {The Society of Mind},
   publisher = {Simon and Schuster},
   address = {New York},
-  year = {1985}
+  year = {1986}
 }
 
 @book{reflections_on_language,
@@ -853,8 +841,7 @@
 }
 
 @inproceedings{cube_corner_traversal,
-  author = {Michael Philetus Weller and Brian T Kirby and H Benjamin
-Brown and Mark D Gross and Seth Copen Goldstein},
+  author = {Michael Philetus Weller and Brian T Kirby and H Benjamin Brown and Mark D Gross and Seth Copen Goldstein},
   title = {Design of Prismatic Cube Modules for Convex Corner Traversal in 3D},
   booktitle = IROS,
   publisher = IEEE,
@@ -906,14 +893,6 @@ Brown and Mark D Gross and Seth Copen Goldstein},
   year = {1972}
 }
 
-@inproceedings{buechley_wild_lilypads,
-  author = {Leah Buechley and Benjamin Mako Hill},
-  title = {LilyPad in the Wild: How Hardware's Long Tail is Supporting New Engineering and Design Communities},
-  booktitle = DIS,
-  year = {2010},
-  pages = {199--207}
-}
-
 @inproceedings{bigdog,
   author = {Marc Raibert and Kevin Blankespoor and Gabriel Nelson and Rob Playter},
   title = {BigDog, the rough-terrain quadruped robot},
@@ -943,7 +922,7 @@ Brown and Mark D Gross and Seth Copen Goldstein},
 } 
 
 @inproceedings{littlebits,
- author = {Bdeir, Ayah},
+ author = {Ayah Bdeir},
  title = {Electronics as material: littleBits},
  booktitle = TEI,
  year = {2009},
@@ -959,3 +938,726 @@ Brown and Mark D Gross and Seth Copen Goldstein},
  publisher = {ACM},
  pages = {25--30}
 } 
+
+@inproceedings{smart_pebbles,
+   author = {Kyle Gilpin and Ara Knaian and Daniela Rus},
+   title = {Robot Pebbles: One Centimeter Modules for Programmable Matter through Self-Disassembly},
+   booktitle = {ICRA},
+   publisher = IEEE,
+   year = {2010},
+   pages = {2485--2492},
+   notes = {
+       describes smart pebbles, self-dissassembling (2Dish) blocks with cool switching electromagnets that are basically tiny junkyard crane magnets
+   }
+}
+
+@article{virtual_guilds,
+  author = {Leonardo Bonanni and Amanda Parkes},
+  title = {Virtual Guilds: Collective Intelligence and the Future of Craft},
+  journal = {The Journal of Modern Craft},
+  volume = {3},
+  number = {2},
+  publisher = {Berg},
+  year = {2010},
+  pages = {179--190},
+  notes = {
+      gives examples of distributed open design communities: steam engines; prosthetics; wearable computing. suggests open design promotes innovation, appropriate technologies
+  }
+}
+
+@inproceedings{lilypad_in_the_wild,
+  author = {Leah Buechley and Benjamin Mako Hill},
+  title = {LilyPad in the wild: how hardware's long tail is supporting new engineering and design communities},
+  booktitle = DIS,
+  publisher = ACM,
+  year = {2010},
+  pages = {199--207},
+  notes = {
+    looks at gender and online postings of projects of arduino vs lilypad; suggests start a new clubhouse vs open the clubhouse model of encouraging participation
+  }
+} 
+
+@inproceedings{hug,
+   author = {Carl DiSalvo and Francine Gemperle and Jodi Forlizzi and Elliott Montgomery},
+   title = {The Hug: an exploration of robotic form for intimate communication},
+   booktitle = {Workshop on Robot and Human Interactive Communication (RO-MAN)},
+   publisher = IEEE,
+   year = {2003},
+   pages = {403--408},
+   notes = {
+     pillow intrumented to afford bilocative hugging
+   }
+}
+
+@article{roombot,
+   author = {Alexander Sprowitz and Soha Pouya and Stephane Bonardi and Jesse van den Kieboom and Rico Mockel and Aude Billard and Pierre Dillenbourg and Auke Ijspeert},
+   title = {Roombots: Reconfigurable Robots for Adaptive Furniture},
+   journal = {Computational Intelligence Magazine},
+   volume = {5},
+   number = {3},
+   publisher = IEEE,
+   year = {2010},
+   pages = {20--32},
+   notes = {
+     atron-like hyperbunkles for furniture hyperfigs
+   }
+}
+
+﻿@incollection {tolley_2011,
+   author = {Michael Tolley and Jonathan Hiller and Hod Lipson},
+   title = {Evolutionary Design and Assembly Planning for Stochastic Modular Robots},
+   booktitle = {New Horizons in Evolutionary Robotics},
+   editor = {Stéphane Doncieux and Nicolas Bredèche and Jean-Baptiste Mouret},
+   publisher = {Springer},
+   year = {2011},
+   pages = {211--225},
+   notes = {
+     uses genetic algorithms to create custom shape for load and then generates fabrication scheme with fluid cube printer
+   }
+}
+
+@inproceedings{zykov_fluid_assembly,
+   author = {Victor Zykov and Hod Lipson},
+   title = {Experiment Design for Stochastic Three-Dimensional Reconfiguration of Modular Robots},
+   booktitle = {Intelligent Robots and Systems (IROS) Workshop on Self-Reconfigurable Robots},
+   year = {2007},
+   pages = {1--4},
+   notes = {
+     self-assembly in fluid
+   }
+}
+
+@inproceedings{morpho,
+   author = {Chih-Han Yu and Kristina Haller and Donald Ingber and Radhika Nagpal},
+   title = {Morpho: A self-deformable modular robot inspired by cellular structure},
+   booktitle = IROS,
+   publisher = IEEE,
+   year = {2008},
+   pages = {3571--3578},
+   notes = {
+     frame-and-panel system with active and passive struts and stretchy panels
+   }
+}
+
+@inproceedings{kidcad,
+  author = {Sean Follmer and Hiroshi Ishii},
+  title = {KidCAD: digitally remixing toys through tangible tools},
+  booktitle = CHI,
+  publisher = ACM,
+  year = {2012},
+  pages = {2401--2410},
+  address = {New York, NY, USA},
+  notes = {
+    uses gel table input to accept imprints of (half of) toys, which can be edited or mixed, and then 3d printed
+  }
+}
+
+@article{locokit,
+  title = {LocoKit: A Robot Construction Kit for Studying and Developing Functional Morphologies},
+  author = {Jorgen Christian Larsen and David Brandt and Kasper Stoy},
+  journal = {From Animals to Animats 12},
+  publisher = {Springer},
+  year = {2012},
+  pages = {12--22},
+  notes = {
+    construction kit for exploring locomotive gaits; features joints, motors, electronics, infrared markers and an instrumented testbed with infrared cameras and force plates for analyzing performance
+  }
+}
+
+@inproceedings{thor,
+  author = {Andreas H Lyder and Kasper Stoy and Ricardo Franco Mendoza Garcia and Jorgen Christian Larsen and Palle Hermansen},
+  title = {On Sub-Modularization and Morphological Heterogeneity in Modular Robotics},
+  booktitle = IAS,
+  year = {2012},
+  pages = {1--14},
+  notes = {
+    describes thor robot construction kit designed for the icra planetary robotic contingency challenge; motor module is decoupled from end effector modules
+  }
+}
+
+@inproceedings{neondough,
+  title = {NeonDough: crafting with interactive lighted clay},
+  author = {Junichi Yamaoka and Yasuaki Kakehi},
+  booktitle = {SIGGRAPH Posters},
+  publisher = ACM,
+  year = {2012},
+  pages = {74},
+  notes = {
+    modules are formed of globs of conductive playdough with an electronic core with an led embedded in the center; when globs are stuck together cores communicate resistively through clay
+  }
+}
+
+@inproceedings{tseng_replay,
+  title = {Replay: a self-documenting construction kit},
+  author = {Tiffany Tseng and Robert Hemsley and Mitchel Resnick},
+  booktitle = IDC,
+  publisher = ACM,
+  pages = {320--322},
+  year = {2012},
+  notes = {
+    kit of bent tube modules with audio jack connectors that communicate assembly steps to an application on a computer that records the assembly process and can self-document the session by replaying the stages of construction afterwards
+  }
+}
+
+@inproceedings{wonderment_toolkit,
+  author = {Eric Paulos and Tom Jenkins and August Joki and Parul Vora},
+  title = {Objects of Wonderment},
+  booktitle = DIS,
+  publisher = ACM,
+  year={2008},
+  pages={350--359},
+  notes = {
+    describes the wonderment toolkit and several projects implemented with it; toolkit allows sensors and actuators to be connected to a cellphone to quickly produce networked public installations
+  }
+}
+
+@inproceedings{recompose,
+  author = {Matthew Blackshaw and Anthony DeVincenzi and David Lakatos and Daniel Leithinger and Hiroshi Ishii},
+  title = {Recompose: direct and gestural interaction with an actuated surface},
+  booktitle = EXTCHI,
+  publisher = ACM,
+  year = {2011},
+  pages = {1237--1242},
+  notes = {
+    tabletop interface with actuated pixel columns instrumented to sense direct input, projected image, and camera for gesture recognition; paper discusses use of direct vs gestural commands for 2.5D modeling interface
+  }
+} 
+
+@inproceedings{sourcemap,
+  author = {Leonardo Bonanni and Matthew Hockenberry and David Zwarg and Chris Chris Csikszentmihalyi and Hiroshi Ishii},
+  title = {Small business applications of sourcemap: a web tool for sustainable design and supply chain transparency},
+  booktitle = CHI,
+  publisher = ACM,
+  year = {2010},
+  pages = {937--946},
+  notes = {
+    a web tool to display infographics depicting the material flow for different products
+  }
+} 
+
+@article{vacuubes,
+  author = {Ricardo Franco Mendoza Garcia and Jonathan D Hiller and Kasper Stoy and Hod Lipson},
+  title = {A vacuum-based bonding mechanism for modular robotics},
+  journal = {Trans on Robotics},
+  publisher = IEEE
+  volume = {27},
+  number = {5},
+  pages = {876--890},
+  year = {2011},
+  notes = {
+    introduces cube modules with vacuum connectors
+  }
+}
+
+@inproceedings{connectibles,
+  author = {Jeevan J Kalanithi and Bove, Jr, V Michael},
+  title = {Connectibles: tangible social networks},
+  booktitle = TEI,
+  publisher = ACM,
+  year = {2008},
+  pages = {199--206},
+  notes = {
+    uses same platform as sifteo (nee siftables) stuck on a board to track social network
+  }
+}
+
+@inproceedings{hapticat,
+  author = {Steve Yohanan and Mavis Chan and Jeremy Hopkins and Haibo Sun and Karon MacLean},
+  title = {Hapticat: exploration of affective touch},
+  booktitle = ICMI,
+  publisher = ACM,
+  year = {2005},
+  pages = {222--229},
+  notes = {
+    examines peoples emaotional response to various behaviors in an abstracted catlike doll bot that cannot move but responds to petting/squeezing with purring, breathing, moving ears etc
+  }
+}
+
+@inproceedings{pinpong_inc,
+  author = {Xiao Xiao and Michael S Bernstein and Lining Yao and David Lakatos and Lauren Gust and Kojo Acquah and Hiroshi Ishii},
+  title = {PingPong++: community customization in games and entertainment},
+  booktitle = ACE,
+  publisher = ACM,
+  year = {2011},
+  pages = {1--6},
+  notes = {
+    instrumented ping-pong table with overhead projector graphics combined with kiosk for producing diy variations on augmented ping-pong games
+  }
+}
+
+@inproceedings{stress_outsourced,
+  author = {Keywon Chung and Carnaven Chiu and Xiao Xiao and Pei-Yu (Peggy) Chi},
+  title = {Stress outsourced: a haptic social network via crowdsourcing},
+  booktitle = EXTCHI,
+  publisher = ACM,
+  year = {2009},
+  pages = {2439--2448},
+  notes = {
+    wearable massage interfaces allowing the giving and receiving of massages through social networks
+  }
+}
+
+@inproceedings{slyper_silicone_sensors,
+  author = {Ronit Slyper and Ivan Poupyrev and Jessica Hodgins},
+  title = {Sensing through structure: designing soft silicone sensors},
+  booktitle = TEI,
+  publisher = ACM,
+  year = {2011},
+  pages = {213--220},
+  notes = {
+    describes method for creating compliant (silicone) structures that sense bending, stretching, squeezing and twisting through embedded switches and mechanical design  
+  }
+} 
+
+@article{amorphous_computing_abelson,
+  author = {Harold Abelson and Don Allen and Daniel Coore and Chris Hanson and George Homsy and Knight, Jr, Thomas F and Radhika Nagpal and Erik Rauch and Gerald Jay Sussman and Ron Weiss},
+  title = {Amorphous computing},
+  journal = {Communications of the ACM},
+  publisher = ACM,
+  volume = {43},
+  number = {5},
+  pages = {74--82},
+  year = {2000},
+  notes = {
+    suggests cellular differentiation as a computing model with code examples and use cases
+  }
+}
+
+@inproceedings{fab_fm,
+  author = {David A Mellis and Dana Gordon and Leah Buechley},
+  title = {Fab FM: the design, making, and modification of an open-source electronic product},
+  booktitle = TEI,
+  publisher = ACM,
+  pages = {81--84},
+  year = {2011},
+  notes = {
+    case study of an open design for a bespoke fm radio
+  }
+}
+
+@inproceedings{raffle_cell_toaster,
+  author = {Hayes Raffle and Rafael Ballagas and Glenda Revelle and Koichi Mori and Hiroshi Horii and Chris Paretti and Mirjana Spasojevic},
+  title = {Pop goes the cell phone: asynchronous messaging for preschoolers},
+  booktitle = IDC,
+  publisher = ACM,
+  year = {2011},
+  pages = {99--108},
+  notes = {
+    smart phone (crystal) is inserted into 'toaster' to create an enticing photo-booth for preschoolers shared with family members
+    example of a bespoke device extending a crystal volticle  
+  }
+}
+
+@inproceedings{lega,
+  author = {Jarmo Laaksolahti and Jakob Tholander and Marcus Lunden and Jordi Solsona Belenguer and Anna Karlsson and Tove Jaensson},
+  title = {The LEGA: a device for leaving and finding tactile traces},
+  booktitle = TEI,
+  publisher = ACM,
+  year = {2011},
+  pages = {193--196},
+  notes = {
+    bespoke tactile egg thing that places and senses ar traces in a museum to allow ambiguous asynchronous communication between visitors
+  }
+}
+
+@inproceedings{tessaltable,
+  title = {TessalTable: tile-based creation of patterns and images},
+  author = {Abel Allison and Sean Follmer and Hayes Raffle},
+  booktitle = TEI,
+  publisher = ACM,
+  year = {2010},
+  pages = {203--204},
+  notes = {
+    tabletop projector surface with tiles that can be used to capture fragments of patterns and then tesselate these to create new patterns
+  }
+}
+
+@inproceedings{communiclay,
+  author = {Hayes Raffle and Ruibing Wang and Karim Seada and Hiroshi Ishii},
+  title = {Communiclay: a modular system for tangible telekinetic communication},
+  booktitle = EXTCHI,
+  publisher = ACM,
+  year={2011},
+  pages={233--242},
+  notes = {
+    repurposes topobo hardware to create a kit for constructing tangible bilocative interfaces
+  }
+}
+
+@inproceedings{io_stickers,
+  author = {Natalie Freed and Jie Qi and Adam Setapen and Cynthia Breazeal and Leah Buechley and Hayes Raffle},
+  title = {Sticking together: handcrafting personalized communication interfaces},
+  booktitle = IDC,
+  publisher = ACM,
+  year ={2011},
+  pages = {238--241},
+  notes = {
+    kit of simple sticker actuators and sensors to be used to create pairs of bespoke networked greeting cards
+  }
+}
+
+@inproceedings{modkit,
+  author = {Amon Millner and Edward Baafi},
+  title = {Modkit: blending and extending approachable platforms for creating computer programs and interactive objects},
+  booktitle = IDC,
+  publisher = ACM,
+  year = {2011},
+  pages = {250--253},
+  notes = {
+    scratch for arduinos, with a custom arduino-compatible board that allows sensors and actuators to be connected with headphone jacks
+  }
+} 
+
+@inproceedings{sixforty_by_foureighty,
+  author = {Marcelo Coelho and Jamie Zigelbaum and Joshua Kopin},
+  title = {Six-forty by four-eighty: the post-industrial design of computational materials},
+  booktitle = TEI,
+  publisher = ACM,
+  year = {2011},
+  pages = {253--256},
+  notes = {
+    magnetic tiles with rgb led output that network and sense in a variety of ways to produce visual patterns
+  }
+}
+
+@inproceedings{diybio,
+  author = {Stacey Kuznetsov and Alex S Taylor and Tim Regan and Nicolas Villar and Eric Paulos},  
+  title = {At the seams: DIYbio and opportunities for HCI},
+  booktitle = DIS,
+  publisher = ACM,
+  year = {2012},
+  pages = {258--267},
+}
+
+@inproceedings{raymatic,
+  title = {The RayMatic: a thermostat with a human face},
+  author = {Ray Yun and Mark D Gross},
+  booktitle = TEI,
+  publisher = ACM,
+  year = {2011},
+  pages = {261--262},
+  notes = {
+    thermostat picture frame that tells temperature with a facial expression, takes input with a touchscreen
+  }
+}
+
+@book{hertzian_tales,
+  author = {Anthony Dunne},
+  title = {Hertzian Tales: Electronic Products, Aesthetic Experience, and Critical Design},
+  publisher = {The MIT Press},
+  year = {2006},
+}
+
+@inproceedings{mellis_personal_fabrication,
+  author = {David A Mellis and Leah Buechley},
+  title = {Case studies in the personal fabrication of electronic products},
+  booktitle = DIS,
+  publisher = ACM,
+  pages = {268--277},
+  year = {2012},
+  notes = {
+    case studies of two open designs for spokes: a speaker and a mouse, and the results of a workshop where participants modified and constructed the designs
+  }
+}
+
+@inproceedings{pillowtalk_portocarrero,
+  autho r= {Edwina Portocarrero and David Cranor and V Michael Bove},
+  title = {Pillow-talk: seamless interface for dream priming, recalling and playback},
+  booktitle = TEI,
+  publisher = ACM,
+  year = {2011},
+  pages = {269--272},
+  notes = {
+    pair of interfaces (pillow recorder / jar player) for recording dreams upon waking and playing the recordings back later
+  }
+}
+
+@inproceedings{mellis_duemilanove_variations,
+  author = {David A Mellis and Leah Buechley},
+  title = {Collaboration in open-source hardware: third-party variations on the arduino duemilanove},
+  booktitle = CSCW,
+  publisher = ACM,
+  year={2012},
+  pages={1175--1178},
+  notes = {
+    investigation of third-party variations on a popular open hardware design
+  }
+}
+
+@inproceedings{stereoblocks,
+  title = {Constructing virtual 3D models with physical building blocks},
+  author = {Ricardo Jota and Hrvoje Benko},
+  booktitle = EXTCHI,
+  publisher = ACM,
+  year = {2011},
+  pages = {2173--2178},
+  notes = {
+    describes a system that uses a kinect, projector and stereo vision goggles (and a navigation pad) to use physical blocks as a sort of 3d cursor to build onto a 3d virtual model, by using the keypad to orient the virtual camera relative to the physical cursor-space
+  }
+}
+
+@inproceedings{smores,
+  author = {Jay Davey and Ngai Kwok and Mark Yim},
+  title = {Emulating Self-reconfigurable Robots - Design of the SMORES System},
+  booktitle = IROS,
+  publisher = IEEE,
+  year = {2012},
+  pages={4464-4469},
+  notes = {
+    describes smores bunkle/swarm/hyperbunkle system composed of cubish modules similar to ckbot and polybot that can also individually locomote on two wheels (which also function as connectors)
+    features a permanent magnet based connector with keyed disengagement
+  }
+}
+
+@inproceedings{reading_glove,
+  author = {Joshua Tanenbaum and Karen Tanenbaum and Alissa Antle},
+  title = {The Reading Glove: designing interactions for object-based tangible storytelling},
+  booktitle = AH,
+  publisher = ACM,
+  year = {2010},
+  pages = {1--9},
+  notes = {
+    glove with a lilypad arduino and an rfid reader plays narrative clips when objects (with embedded rfid tags) are handled to tell a story
+  }
+}
+
+@inproceedings{plushbot,
+  author = {Yingdan Huang and Michael Eisenberg},
+  title = {Plushbot: an application for the design of programmable, interactive stuffed toys},
+  booktitle = TEI,
+  year={2011},
+  pages={257--260},
+  notes = {
+    software for designing dolls with embedded lilypad arduino and sensors and actuators
+  }
+}
+
+@inproceedings{reactivision,
+  author = {Martin Kaltenbrunner and Ross Bencina},
+  title = {reacTIVision: a computer-vision framework for table-based tangible interaction},
+  booktitle = TEI,
+  publisher = ACM,
+  pages = {69--74},
+  year = {2007},
+  notes = {
+    open source toolkit for tabletop interaction with fiducial markers
+  }
+}
+
+@inproceedings{mechanix,
+  author = {Tiffany Tseng and Coram Bryant and Paulo Blikstein},
+  title = {Mechanix: an interactive display for exploring engineering design through a tangible interface},
+  booktitle = TEI,
+  publisher = ACM,
+  year = {2011},
+  pages = {265--266},
+  notes = {
+    tangible ar mechanical simulation with tiles on a magnetic reactivision surface, allows people (especially students) to attempt challenges left in the system by others
+  }
+}
+
+@inproceedings{red_balloon_green_balloon,
+  author = {Stacey Kuznetsov and George Davis Noel and Eric Paulos and Mark D Gross and Jian Chiu Cheung},
+  title = {Red balloon, green balloon, sensors in the sky},
+  booktitle = UBICOMP,
+  publisher = ACM,
+  year = {2011},
+  pages = {237--246},
+  notes = {
+    kit for measuring air quality and displaying results with public lighted balloons to create 'spectacle computing'
+  }
+}
+
+@inproceedings{io_brush,
+  author = {Kimiko Ryokai and Stefan Marti and Hiroshi Ishii},
+  title = {I/O brush: drawing with everyday objects as ink},
+  booktitle = CHI,
+  publisher = ACM,
+  year = {2004},
+  pages = {303--310},
+}
+
+@inproceedings{ambient_touch,
+  author = {Ivan Poupyrev and Shigeaki Maruyama and Jun Rekimoto},
+  title = {Ambient touch: designing tactile interfaces for handheld devices},
+  booktitle = UIST,
+  publisher = ACM,
+  pages = {51--60},
+  year = {2002},
+}
+
+@inproceedings{lumen,
+  author = {Ivan Poupyrev and Tatsushi Nashida and Shigeaki Maruyama and Jun Rekimoto and Yasufumi Yamaji},
+  title = {Lumen: interactive visual and shape display for calm computing},
+  booktitle = SIGGRAPH,
+  publisher = ACM,
+  year = {2004},
+  pages = {17},
+}
+
+@inproceedings{touche,
+  author = {Munehiko Sato and Ivan Poupyrev and Chris Harrison},
+  title = {Touche: enhancing touch interaction on humans, screens, liquids, and everyday objects},
+  booktitle = CHI,
+  publisher = ACM,
+  year = {2012},
+  pages = {483--492},
+}
+
+@inproceedings{blinky_blocks,
+  author = {Brian T Kirby and Michael P Ashley-Rollman and Seth Copen Goldstein},
+  title = {Blinky blocks: a physical ensemble programming platform},
+  booktitle = EXTCHI,
+  publisher = ACM,
+  year = {2011},
+  pages = {1111--1116},
+}
+
+@inproceedings{reactable,
+  author = {Sergi Jorda and Gunter Geiger and Marcos Alonso and Martin Kaltenbrunner},
+  title = {The reacTable: exploring the synergy between live music performance and tabletop tangible interfaces},
+  booktitle = TEI,
+  publisher = ACM,
+  year = {2007},
+  pages = {139--146},
+}
+
+@inproceedings{speakcup,
+ author = {Jamie Zigelbaum and Angela Chang and James Gouldstone and Joshua Jen Monzen and Hiroshi Ishii},
+ title = {SpeakCup: simplicity, BABL, and shape change},
+ booktitle = TEI,
+ publisher = ACM,
+ year = {2008},
+ pages = {145--146},
+}
+
+@inproceedings{slurp,
+  author = {Jamie Zigelbaum and Alejandro Vazquez and Adam Kumpf and Hiroshi Ishii},
+  title = {Slurp: Tangibility, Spatiality, and an Eyedropper},
+  booktitle = ALTCHI,
+  year = {2009},
+  pages = {1--10},
+}
+  
+@inproceedings{intouch,
+  author = {Scott Brave and Hiroshi Ishii and Andrew Dahley},
+  title = {Tangible Interfaces for Remote Collaboration and Communication},
+  booktitle = CSCW,
+  publisher = ACM,
+  year = {1998},
+  pages = {169--178},
+}
+
+@inproceedings{illuminating_clay,
+  author = {Ben Piper and Carlo Ratti and Hiroshi Ishii},
+  title = {Illuminating Clay: A 3-D Tangible Interface for Landscape Analysis},
+  booktitle = CHI,
+  publisher = ACM,
+  year = {2002},
+  pages = {355--362},
+}
+
+@inproceedings{musicbottles,
+  author = {Hiroshi Ishii and Ali Mazalek and Jay Lee},
+  title = {Bottles as a minimal interface to access digital information},
+  booktitle = EXTCHI,
+  publisher = ACM,
+  year = {2001},
+  pages = {187--188},
+} 
+
+@inproceedings{urp,
+  author = {John Underkoffler and Hiroshi Ishii},
+  title = {Urp: a luminous-tangible workbench for urban planning and design},
+  booktitle = CHI,
+  publisher = ACM,
+  year = {1999},
+  pages = {386--393},
+} 
+
+@inproceedings{huggable,
+  author = {Heather Knight and Robert Toscano and Walter D Stiehl and Angela Chang and Yi Wang and Cynthia Breazeal},
+  title = {Real-time social touch gesture recognition for sensate robots},
+  booktitle = IROS,
+  publisher = IEEE,
+  pages = {3715--3720},
+  year = {2009},
+}
+
+@article{wolfram_1983,
+  title = {Statistical mechanics of cellular automata},
+  author = {Stephen Wolfram},
+  journal = {Reviews of modern physics},
+  volume = {55},
+  number = {3},
+  pages = {601--644},
+  year = {1983},
+  publisher = {American Physical Society}
+}
+
+@inproceedings{voodooio,
+  author = {Nicolas Villar and Hans Gellersen},
+  title = {A malleable control structure for softwired user interfaces},
+  booktitle = TEI,
+  publisher = ACM,
+  year = {2007},
+  pages = {49--56},
+}
+
+@inproceedings{folded_millirobots,
+  author = {Aaron M Hoover and Ronald S Fearing},
+  title = {Fast scale prototyping for folded millirobots},
+  booktitle = ICRA,
+  publisher = IEEE,
+  year = {2008},
+  pages = {886--892},
+}
+
+@article{fabathome,
+  author = {Evan Malone and Hod Lipson},
+  title = {Fab@Home: the personal desktop fabricator kit},
+  journal = {Rapid Prototyping Journal},
+  volume = {13},
+  number = {4},
+  pages = {245--255},
+  year = {2007},
+  publisher = {Emerald Group Pub Ltd}
+}
+
+@article{reprap,
+  author = {Rhys Jones and Patrick Haufe and Ed Sells and Pejman Iravani and Vik Olliver and Chris Palmer and Adrian Bowyer},
+  title = {RepRap--the replicating rapid prototyper},
+  journal = {Robotica},
+  volume = {29},
+  number = {01},
+  pages = {177--191},
+  year = {2011},
+  publisher = {Cambridge Univ Press}
+}
+
+@inproceedings{arduino,
+  author = {David A Mellis and Massimo Banzi and David Cuartielles and Tom Igoe},
+  title = {Arduino: An open electronics prototyping platform}
+  booktitle = ALTCHI,
+  year = {2007},
+  pages = {1--11},
+}
+
+@inproceedings{printable_sensing_skin,
+  author = {Austin Buchan and Jonathan Bachrach and Ronald S Fearing}
+  title = {Towards a Minimal Architecture for a Printable, Modular, and Robust Sensing Skin},
+  booktitle = IROS,
+  publisher = IEEE,
+  year = {2012},
+  pages = {1--6}
+}
+
+@inproceedings{squirrel_phone,
+  author = {Stefan Marti and Chris Schmandt},
+  title = {Physical embodiments for mobile communication agents},
+  booktitle = UIST,
+  publisher = ACM,
+  year = {2005},
+  pages = {231--240},
+}
+
