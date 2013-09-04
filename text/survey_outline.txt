@@ -1,0 +1,77 @@
+a survey of kinds of artifacts
+==============================
+with particular emphasis on responsive artifacts
+------------------------------------------------
+
+* projects grouped by purpose and role
+
+> kinds of things
+ - foliage / cargo
+ - milk
+ - bots (critters)
+   * drones
+   * souls
+
+ - ducks 
+ - popsicles
+ - spokes
+
+> ducks vs daemons (ducks vs responsive artifacts)
+ - ducks:
+  . bowl
+  . knife
+  . shovel
+  . hammer
+  . bottle
+  . guitar
+  . shirt
+ - pre-computational demons:
+  . oven/stove
+  . water faucet
+  . telephone
+  . electric guitar
+ - knives and chainsaws and laser cutters
+ - fires and stoves and microwaves
+ - paper and records and thumb drives
+ - bowls, bottles, bags and storehouses
+
+> shrines and idols and crystals
+
+ - toolchains for wizzes and toolers and teks
+ - tools for engineering & design teks
+ - tools for visual art teks
+ - tools for music teks
+
+ - tools for tinkers
+  . photo management
+  . music production
+  . video production
+  . spreadsheets
+
+ - tools for tasters
+  . browser
+  . media player
+  . document editor
+ 
+
+> bearing data with kips
+ - paper
+ - books
+ - records / tapes / cds / dvds
+ - platter drives
+ - thumb drives / cards
+ - crystals
+ 
+ - tasters:
+  . paper
+  . books
+  . purchased media
+  . crystals w/ integral kripts
+  . thumb drives / cards
+  . slurp
+
+> identification with badges
+
+> interaction with sticks and tinks and dolls
+
+> reification with golems
