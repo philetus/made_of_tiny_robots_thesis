@@ -1,16 +1,67 @@
 ways of grouping bots (bunkles)
 ===============================
 
+ > era
+   - foliage
+   - cargo
+   - bots
+
 (shep)herd relations
 --------------------
 * roles adopted by gents / bots / etc
 * modes of relation to other physically local entities
 
+ > role
+   - milk
+   - ducks
+   - gints
+     . arfs
+     . puppets
+     . drones
+   - veks
+     . idols
+     . tasters
+     . wranglers
+     . tinkers
+     . teks
+     . wizzes
+     
+ > purpose
+   - fektors (hands)
+     . knives
+     . tinks
+     . sticks
+   - kin (bodies)
+     . mekas (chairs)
+     . golems
+     . bubbles
+     . dolls
+   - jars (heads)
+     . shrines
+       + blooping
+       + scoring
+       + kratting
+       + etherdiving
+     . choops
+     . badges
+     . kips
+     . lids
+     . sniffers
+     
+ > production
+   - spokes
+   - popsicles
+   - figs
+   - hyperfigs
+   - hyperthous
+
 formal relations
 ----------------
 * affordances provided by shape of artifact
 * local digital affordances implied by shape of artifact
-
+ 
+ > morphology
+   - 
 ethereal relations
 ------------------
 * 

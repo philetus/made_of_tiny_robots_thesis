@@ -3,18 +3,62 @@ a survey of kinds of artifacts
 with particular emphasis on responsive artifacts
 ------------------------------------------------
 
-* projects grouped by purpose and role
+* projects grouped by role -> purpose -> production
 
-> kinds of things
- - foliage / cargo
- - milk
- - bots (critters)
-   * drones
-   * souls
+* kinds of things
+ > era
+   - foliage
+   - cargo
+   - bots
+ > role
+   - milk
+   - ducks
+   - gints
+     . arfs
+     . puppets
+     . drones
+   - veks
+     . idols
+     . tasters
+     . wranglers
+     . tinkers
+     . teks
+     . wizzes
+ > purpose
+   - fektors (hands)
+     . knives
+     . tinks
+     . sticks
+   - kin (bodies)
+     . mekas (chairs)
+     . golems
+     . bubbles
+     . dolls
+   - jars (heads)
+     . shrines
+       + blooping
+       + scoring
+       + kratting
+       + etherdiving
+     . choops
+     . badges
+     . kips
+     . lids
+     . sniffers
+ > production
+   - spokes
+   - popsicles
+   - figs
+   - hyperfigs
+   - hyperthous
 
- - ducks 
- - popsicles
- - spokes
+> arfs
+ - badges
+ - kips
+
+> puppets
+ - golems
+ - dolls
 
 > ducks vs daemons (ducks vs responsive artifacts)
  - ducks:
