@@ -14,7 +14,7 @@
    height="620.07874"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="formal_icons.ink.svg">
   <defs
      id="defs4" />
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66635149"
-     inkscape:cx="286.41652"
-     inkscape:cy="312.81332"
+     inkscape:zoom="0.94236331"
+     inkscape:cx="366.56226"
+     inkscape:cy="315.85314"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1024"
-     inkscape:window-height="576"
-     inkscape:window-x="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
@@ -762,7 +762,7 @@
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.83464567, 1.41732283, 0.70866142, 1.41732283;stroke-dashoffset:0;display:inline"
-       d="m 71.478859,686.78914 -1.119039,178.67613 169.47612,-0.6498 -0.54959,-176.09566 z"
+       d="m 71.478859,686.78914 0.38167,180.17684 167.975411,-2.15051 -0.54959,-176.09566 z"
        id="path4052-8-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -1419,47 +1419,8 @@
          x="67.146858"
          y="935.74731">blessing</tspan></text>
     <g
-       id="g11120"
-       transform="translate(0,-66)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text3856-2-0-7"
-         y="1110.2247"
-         x="154.00026"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-         xml:space="preserve"><tspan
-           y="1110.2247"
-           x="154.00026"
-           id="tspan3858-6-3-5"
-           sodipodi:role="line">baring</tspan></text>
-      <g
-         transform="translate(-9.7460876,143.20998)"
-         id="g11211-7"
-         style="display:inline">
-        <path
-           sodipodi:nodetypes="ccsczczczczczczcsc"
-           inkscape:connector-curvature="0"
-           id="path5156"
-           d="m 152.76117,1009.3275 1.67576,-3.8096 c 0,0 2.61339,-0.5634 6.12426,2.4848 3.37664,2.9315 3.52858,4.2333 3.52858,4.2333 0,0 5.05097,-4.2731 7.93401,-4.5642 2.88306,-0.291 7.81301,2.5963 7.81301,2.5963 0,0 -0.65638,4.6059 -2.55589,5.9834 -1.8995,1.3774 -7.88168,2.2614 -7.88168,2.2614 0,0 7.33033,4.5514 7.31482,8.2208 -0.0155,3.6693 -5.00101,7.7436 -5.00101,7.7436 0,0 -7.34288,-1.7889 -9.42852,-4.3068 -2.08564,-2.5178 -2.2103,-8.9832 -2.2103,-8.9832 0,0 -2.19032,3.2367 -4.11088,4.0967 -1.92055,0.8601 -6.81073,0.3982 -6.81073,0.3982 0,0 0.048,-5.9073 2.15739,-8.1941 2.10938,-2.2867 9.61597,-3.381 9.61597,-3.381 0,0 -0.32003,-2.3269 -3.08972,-3.8523 -3.10329,-1.7091 -5.07507,-0.9273 -5.07507,-0.9273 z"
-           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.48031497;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <path
-           sodipodi:nodetypes="csc"
-           transform="translate(-19.442075,215.19406)"
-           inkscape:connector-curvature="0"
-           id="path5165"
-           d="m 169.00705,790.32067 c -4.88191,-5.34685 0.23246,-10.46124 5.57932,-7.90405 5.34685,2.55719 12.55348,-1.85977 9.53135,-6.27673"
-           style="color:#000000;fill:none;stroke:#000000;stroke-width:2.12598419;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.2519685, 2.12598425;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <path
-           sodipodi:nodetypes="cccccccc"
-           inkscape:connector-curvature="0"
-           id="path3840-7-3-0-2-5"
-           d="m 183.2334,1042.4811 4.2087,-60.00863 -17.5502,7.0711 -11.6691,-14.29 -6.4612,12.7224 -11.8474,-4.3362 4.3052,58.84133 z"
-           style="color:#000000;fill:none;stroke:#000000;stroke-width:1.77165353;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      </g>
-    </g>
-    <g
        id="g11097"
-       transform="translate(0,-66)">
+       transform="translate(-56,-66)">
       <text
          sodipodi:linespacing="125%"
          id="text3856-2-0-7-4"
@@ -1534,7 +1495,7 @@
     </g>
     <g
        id="g11079"
-       transform="translate(0,-66)">
+       transform="translate(-56,-66)">
       <text
          sodipodi:linespacing="125%"
          id="text3860-6-2-4-6"
@@ -1860,7 +1821,7 @@
     </g>
     <g
        id="g11088"
-       transform="translate(0,-66)">
+       transform="translate(-56,-66)">
       <text
          sodipodi:linespacing="125%"
          id="text3856-2-0-7-46"
@@ -2346,10 +2307,10 @@
          id="tspan3866-7-8-0-3-5-3-9"
          x="319.82867"
          y="653.79028"
-         style="font-size:10px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Nimbus Sans L Italic">ponking</tspan></text>
+         style="font-size:10px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Nimbus Sans L Italic">mogging</tspan></text>
     <g
        id="g11111"
-       transform="translate(0,-66)">
+       transform="translate(-56,-66)">
       <text
          xml:space="preserve"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
