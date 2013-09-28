@@ -16,9 +16,9 @@ universal constructor | 1989 | an evolutionary architecture | frazer
 Monkey | 1995 | Of mice and monkeys: A specialized input device for virtual body animation | Chris Esposito and W Bradford Paley and and JueyChong Ong
 Triangles | 1997 | Triangles: Design of a Physical/Digital Construction Kit | Matthew G Gorbet and Maggie Orth
 Crickets | 1998 | Digital manipulatives: new toys to think with | Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman
-Programmable Beads | 1998 | Digital manipulatives: new toys to think with |Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman
-BitBalls | 1998 | Digital manipulatives: new toys to think with |Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman
-Thinking Tags | 1998 | Digital manipulatives: new toys to think with |Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman
+? Programmable Beads | 1998 | Digital manipulatives: new toys to think with |Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman
+? BitBalls | 1998 | Digital manipulatives: new toys to think with |Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman
+? Thinking Tags | 1998 | Digital manipulatives: new toys to think with |Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman
 algoblocks | 1995 | Interaction-level support for collaborative learning: AlgoBlock---an open programming language | Hideyuki Suzuki and Hiroshi Kato
 Programmable Bricks | 1996 | Programmable bricks: Toys to think with | Mitchel Resnick and Fred Martin and Randy Sargent and Brian Silverman
 self-describing building blocks | 1999 | Building Virtual Structures with Physical Blocks | David Anderson and James L Frankel and Joe Marks and Darren Leigh and Kathy Ryall and Eddie Sullivan and Jonathan Yedidia
@@ -55,7 +55,7 @@ Telecube | 2002 | Telecubes: mechanical design of a module for self-reconfigurab
 ATRON | 2004 | Modular ATRON: modules for a self-reconfigurable robot | Morten Winkler Jorgensen and Esben Hallundbaek Ostergaard and Henrik Hautop Lund
 M-TRAN | 2002 | M-TRAN: self-reconfigurable modular robotic system | Satoshi Murata and Eiichi Yoshida and Akiya Kamimura and Haruhisa Kurokawa and Kohji Tomita and Shigeru Kokaji
 Proteo | 2001 | Distributed Control for 3D Metamophosis | Mark Yim and Ying Zhang and John Lamping and Eric Mao
-programmable parts | 2006 | A grammatical approach to self-organizing robotic systems | Eric Klavins and Robert Ghrist and David Lipsky
+? programmable parts | 2006 | A grammatical approach to self-organizing robotic systems | Eric Klavins and Robert Ghrist and David Lipsky
 CKBot | 2007 | Towards robotic self-reassembly after explosion | Mark Yim and Babak Shirmohammadi and Jimmy Sastra and Mike Park and Mike Dugan and C J Taylor
 PolyBot | 2000 | PolyBot: a modular reconfigurable robot | Mark Yim and David G Duff and Kimon D Roufas
 Siftables (Sifteo) | 2007 | Siftables: Towards Sensor Network User Interfaces | David Merrill and Jeevan Kalanithi and Pattie Maes
@@ -64,7 +64,7 @@ Planar Catoms | 2007 | A modular robotic system using magnetic force effectors |
 Easigami | 2009 | Easigami: A reconfigurable folded-sheet TUI in 3D | Yingdan Huang and Mark D Gross and Ellen Yi-Luen Do and Mike Eisenberg
 Electronic Blocks | 2001 | Electronic Blocks: Tangible Programming Elements for Preschoolers | Peta Wyeth and Gordon Wyeth
 CONRO | 2000 | CONRO: Towards Deployable Robots with Inter-Robots Metamorphic Capabilities | Andres Castano and Wei-Min Shen and Peter Will
-Prismatic Cubes | 2009 | Design of Prismatic Cube Modules for Convex Corner Traversal in 3D | Michael Philetus Weller and Brian T Kirby and H Benjamin Brown and Mark D Gross and Seth Copen Goldstein
+*** Prismatic Cubes | 2009 | Design of Prismatic Cube Modules for Convex Corner Traversal in 3D | Michael Philetus Weller and Brian T Kirby and H Benjamin Brown and Mark D Gross and Seth Copen Goldstein
 BigDog | 2008 | BigDog, the rough-terrain quadruped robot | Marc Raibert and Kevin Blankespoor and Gabriel Nelson and Rob Playter
 LittleBits | 2009 | Electronics as material: littleBits | Ayah Bdeir
 N-Smarts | 2009 | N-smarts: networked suite of mobile atmospheric real-time sensors | Richard J Honicky and Eric Brewer and Eric Paulos and Richard White

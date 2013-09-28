@@ -1,1 +1,304 @@
+survey of systems
+
 * by stance -> niche -> production
+
+* milk / ducks / gints -> by definition dont have input on ecology
+
+* stances
+  > milk
+  > ducks
+  > gints
+    : arfs
+    : puppets
+    : drones
+  > veks
+    : tasters
+    : tinkers
+    : wranglers
+    : idols
+    : teks
+    : wizzes
+
+* niches 
+  > fektors
+    : knives
+    : sticks
+    : tinks
+      . tiles
+      . blocks
+      . skellies
+      . panels
+    : moggers
+  > kin
+    : mekas
+    : bubbles
+    : dolls
+    : golems
+  > plugs
+    : kips
+    : badges
+    : flaggers
+    : choops
+    : sniffers
+    : lids
+    : shrines
+      . etherdivers
+      . astral(in/pro)jecters
+      . dredders
+      . kratters
+      . bloopers
+
+* production
+  > spokes
+  > popsicles
+  > figs
+  > hyperfigs
+  > hyperthous
+
+* affordances
+  > placing / mogging
+  > posing / flexing
+  > nointing / haloing
+  > tagging / texting
+  > graffing / gramming
+  > obeying / mocking
+  > petting / quacking
+
+* blessings
+  > vouching
+  > vigilance
+  > warding
+  > wayfinding
+  > counsel
+  > bilocation
+  > mirroring
+  
+* devotions
+  > naming
+  > sampling
+  > classifying
+  > hosting
+  > deploying
+
+
+milk
+----
+  > tinks
+  > moggers
+  > lids
+  > knives
+  > kips
+  > flaggers
+  > sniffers
+
+  
+ducks
+-----
+  > knives
+  > tinks
+    # froebels gifts | 190? |
+    # montessori materials | 190? |
+    # tinkertoy
+    # legos
+    # erector (meccanoo)
+    # zoob
+    # kinex
+  > mekas
+  > bubbles
+  > dolls
+
+  
+arfs
+---
+  > badges
+  > kips
+
+
+puppets -> 
+-------
+  > dolls
+    ### Posey
+  > golems
+  > knives
+  > sniffers
+
+
+drone -> unskilled labor / passive consumption
+-----
+  > knives
+  
+  > tinks
+    # Navigational Blocks | 2002 | Navigational blocks: navigating information space with tangible media | Ken Camarata and Ellen Yi-Luen Do and Brian R Johnson and Mark D Gross
+    # siftables (sifteo)
+    
+  > mekas
+  > bubbles
+  
+  > dolls
+    # InTouch | 1998 | Tangible Interfaces for Remote Collaboration and Communication | Scott Brave and Hiroshi Ishii and Andrew Dahley
+    
+  > kips
+  > badges
+  > choops
+  > lids
+  > shrines
+    : etherdivers
+    : astraljecters
+
+
+taster -> judges relative merits of systems
+------
+  > shrines
+    : dredders
+    : kratters
+
+
+wrangler -> 
+--------
+  > knives
+    # Jabberstamp | 2007 | Jabberstamp: embedding sound and voice in traditional drawings | Hayes Solos Raffle and Cati Vaucelle and Ruibing Wang and Hiroshi Ishii
+  > sticks
+  > choops
+  > golems
+  > dolls
+
+
+idol -> maintains models & data stores, responds to queries
+----
+  > kips
+  > badges
+  > sniffers
+  > golems
+  > dolls
+    ### InTouch
+  > shrines
+    : spiders
+    : repos
+    : kratters
+    : dredders
+    : etherdivers
+    : astraljecters
+
+
+tinker -> modifies system behaviors / builds systems from tinks
+------
+  > knives
+    ### Jabberstamp?
+    # Handsaw | 2008 | Handsaw: Tangible Exploration of Volumetric Data by Direct Cut-Plane Projection | Leonardo Bonanni and Jason Alonso and Greg Vargas and Neil Chao and Hiroshi Ishii
+    
+  > tinks
+    # computerised building block system | 1979 | 3D Input for CAAD Systems | Robert Aish
+    # universal constructor | 1989 | an evolutionary architecture | frazer
+    # Triangles | 1997 | Triangles: Design of a Physical/Digital Construction Kit | Matthew G Gorbet and Maggie Orth
+    # algoblocks | 1995 | Interaction-level support for collaborative learning: AlgoBlock---an open programming language | Hideyuki Suzuki and Hiroshi Kato
+    # Programmable Bricks | 1996 | Programmable bricks: Toys to think with | Mitchel Resnick and Fred Martin and Randy Sargent and Brian Silverman
+    # self-describing building blocks | 1999 | Building Virtual Structures with Physical Blocks | David Anderson and James L Frankel and Joe Marks and Darren Leigh and Kathy Ryall and Eddie Sullivan and Jonathan Yedidia
+    # Posey | 2008 | Posey: instrumenting a poseable hub and strut construction toy | Michael Philetus Weller and Ellen Yi-Luen Do and Mark D Gross
+    # Speech-Enabled Alphabet Blocks | 2002 | Computationally-Enhanced Construction Kits for Children: Prototype and Principles | Mike Eisenberg and Ann Eisenberg and Mark D Gross and Khomkrit Kaowthumrong and Nathaniel Lee and Will Lovet
+    # Topobo | 2004 | Topobo: A constructive assembly system with kinetic memory | Hayes Solos Raffle and Amanda J Parkes and Hiroshi Ishii
+    # roBlocks (Cubelets) | 2006 | roBlocks: a robotic construction kit for mathematics and science education | Eric Schweikardt and Mark D Gross
+    # ActiveCube | 2004 | The Soul of ActiveCube - Implementing a Flexible, Multimodal, Three-Dimensional Spatial Tangible Interface | Ryoichi Watanabe and Yuichi Itoh and Masatsugu Asai and Yoshifumi Kitamura and Fumio Kishino and Hideo Kikuchi
+    # Smart Blocks | 2007 | Smart Blocks: A Tangible Mathematical Manipulative | Audrey Girouard and Erin Treacy Solovey and Leanne M Hirshfield and Stacey Ecott and Orit Shaer and Robert J K Jacob
+    # Glume | 2006 | Glume: exploring materiality in a soft augmented modular modeling system | Amanda J Parkes and Vincent LeClerc and Hiroshi Ishii
+    # Senspectra | 2007 | Senspectra: a computationally augmented physical modeling toolkit for sensing and visualization of structural strain | Vincent LeClerc and Amanda J Parkes and Hiroshi Ishii
+    # Tern | 2007 | Tangible programming in the classroom with tern | Michael S Horn and Robert J K Jacob
+    # FlowBlocks | 2005 | Extending tangible interfaces for education: digital montessori-inspired manipulatives | Oren Zuckerman and Saeed Arida and Mitchel Resnick
+    # Siftables (Sifteo) | 2007 | Siftables: Towards Sensor Network User Interfaces | David Merrill and Jeevan Kalanithi and Pattie Maes
+    # Molecubes | 2007 | Evolved and Designed Self-Reproducing Modular Robotics | Victor Zykov and Efstathios Mytilinaios and Mark Desnoyer and Hod Lipson
+    # Electronic Blocks | 2001 | Electronic Blocks: Tangible Programming Elements for Preschoolers | Peta Wyeth and Gordon Wyeth
+    
+  > sticks
+  > choops
+  > golems
+    # logo turtle | 1975~ | 
+    ### Curlybot
+    ### Topobo
+    ### roBlocks (cubelets)
+    ### molecubes
+    ### CKBot
+    ### Odin
+    
+  > dolls (modification?)
+    # slot machine | 1981 |  | radia perlman
+    # Monkey | 1995 | Of mice and monkeys: A specialized input device for virtual body animation | Chris Esposito and W Bradford Paley and and JueyChong Ong
+    ### Posey
+    ### Topobo
+    # Curlybot | 2000 | Curlybot: Designing a New Class of Computational Toys | Phil Frei and Victor Su and Bakhtiar Mikhak and Hiroshi Ishii
+    # Easigami | 2009 | Easigami: A reconfigurable folded-sheet TUI in 3D | Yingdan Huang and Mark D Gross and Ellen Yi-Luen Do and Mike Eisenberg
+    
+  > lids
+    # Crickets | 1998 | Digital manipulatives: new toys to think with | Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman
+    
+  > shrines
+    : sims
+      # SmartTiles | 2004 | Computation and Construction Kits: Toward the Next Generation of Tangible Building Media for Children | Nwanua Elumeze and Mike Eisenberg
+    : bloopers
+      # Pico | 2007 | Mechanical constraints as computational constraints in tabletop tangible interfaces | James Patten and Hiroshi Ishii
+      ### Handsaw
+      ### roBlocks
+      ### Algoblocks
+      ### Tern
+      ### Flowblocks
+      ### Electronic Blocks
+
+
+tek -> builds systems
+---
+  > tinks
+    # Tetrobot | 1997 | TETROBOT: a modular approach to parallel robotics | Gregory J Hamlin and Arthur C Sanderson
+    # Odin | 2008 | Mechanical design of odin, an extendable heterogeneous deformable modular robot | Andreas Lyder and Ricardo Franco Mendoza Garcia and Kasper Stoy
+    # CKBot | 2007 | Towards robotic self-reassembly after explosion | Mark Yim and Babak Shirmohammadi and Jimmy Sastra and Mike Park and Mike Dugan and C J Taylor
+    # CONRO | 2000 | CONRO: Towards Deployable Robots with Inter-Robots Metamorphic Capabilities | Andres Castano and Wei-Min Shen and Peter Will
+    # Prismatic Cubes | 2009 | Design of Prismatic Cube Modules for Convex Corner Traversal in 3D | Michael Philetus Weller and Brian T Kirby and H Benjamin Brown and Mark D Gross and Seth Copen Goldstein
+    
+  > mogs
+    # Fracta | 1994 | Self-assembling machine | Satoshi Murata and Haruhisa Kurokawa and Shigeru Kokaji
+    # 3-D self-reconfigurable structure | 1998 | A 3-D Self-Reconfigurable Structure | Satoshi Murata and Haruhisa Kurokawa and Eiichi Yoshida and Kohji Tomita and Shigeru Kokaji
+    # Robotic Molecule | 1998 | The self-reconfiguring robotic molecule | Keith Kotay and Daniela Rus and Marsette Vona and Craig McGray
+    # Metamorphic Robot | 1996 | Design and implementation of metamorphic robots | Amit Pamecha and Chih-Jung Chiang and David Stein and Gregory Chirikjian
+    # Proteo | 2001 | Distributed Control for 3D Metamophosis | Mark Yim and Ying Zhang and John Lamping and Eric Mao
+    # Shady | 2006 | Hierarchical control for self-assembling mobile trusses with passive and active links | Carrick Detweiler and Marsette Vona and Keith Kotay and Daniela Rus
+    # Telecube | 2002 | Telecubes: mechanical design of a module for self-reconfigurable robotics | John W Suh and Samuel B Homans and Mark Yim
+    # Crystalline Atom | 2001 | Crystalline robots: Self-reconfiguration with compressible unit modules | Marsette Vona and Daniela Rus
+    # Programmable Matter | 2005 | Programmable Matter | Seth Copen Goldstein and Jason D Campbell and Todd C Mowry
+    # ATRON | 2004 | Modular ATRON: modules for a self-reconfigurable robot | Morten Winkler Jorgensen and Esben Hallundbaek Ostergaard and Henrik Hautop Lund
+    # M-TRAN | 2002 | M-TRAN: self-reconfigurable modular robotic system | Satoshi Murata and Eiichi Yoshida and Akiya Kamimura and Haruhisa Kurokawa and Kohji Tomita and Shigeru Kokaji
+    # PolyBot | 2000 | PolyBot: a modular reconfigurable robot | Mark Yim and David G Duff and Kimon D Roufas
+    # Planar Catoms | 2007 | A modular robotic system using magnetic force effectors | Brian T Kirby and Burak Aksak and Jason D Campbell and Jim F Hoburg and Todd C Mowry and Padmanabhan Pillai and Seth Copen Goldstein
+    ### Prismatic Cubes
+    
+  > sticks (?)
+  > choops
+  
+  > mekas
+    ### Prismatic Cubes
+    
+  > bubbles
+    ### Prismatic Cubes
+  
+  > golems
+    ### Tetrobot
+    ### Odin
+    ### CKBot
+    ### Polybot
+    ### CONRO
+    
+  > shrines
+    : bloopers
+      # Urp | 1999 | Urp: a luminous-tangible workbench for urban planning and design | John Underkoffler and Hiroshi Ishii
+      ### Pico
+    : prompts
+
+
+wiz -> builds tools / develops new models
+---
+  > tinks
+  > mogs
+  > sticks
+  > choops
+  > golems
+  > shrines
+    : bloopers
+    : prompts
+
+
