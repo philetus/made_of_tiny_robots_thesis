@@ -64,7 +64,7 @@ Planar Catoms | 2007 | A modular robotic system using magnetic force effectors |
 Easigami | 2009 | Easigami: A reconfigurable folded-sheet TUI in 3D | Yingdan Huang and Mark D Gross and Ellen Yi-Luen Do and Mike Eisenberg
 Electronic Blocks | 2001 | Electronic Blocks: Tangible Programming Elements for Preschoolers | Peta Wyeth and Gordon Wyeth
 CONRO | 2000 | CONRO: Towards Deployable Robots with Inter-Robots Metamorphic Capabilities | Andres Castano and Wei-Min Shen and Peter Will
-*** Prismatic Cubes | 2009 | Design of Prismatic Cube Modules for Convex Corner Traversal in 3D | Michael Philetus Weller and Brian T Kirby and H Benjamin Brown and Mark D Gross and Seth Copen Goldstein
+Prismatic Cubes | 2009 | Design of Prismatic Cube Modules for Convex Corner Traversal in 3D | Michael Philetus Weller and Brian T Kirby and H Benjamin Brown and Mark D Gross and Seth Copen Goldstein
 BigDog | 2008 | BigDog, the rough-terrain quadruped robot | Marc Raibert and Kevin Blankespoor and Gabriel Nelson and Rob Playter
 LittleBits | 2009 | Electronics as material: littleBits | Ayah Bdeir
 N-Smarts | 2009 | N-smarts: networked suite of mobile atmospheric real-time sensors | Richard J Honicky and Eric Brewer and Eric Paulos and Richard White
@@ -81,7 +81,6 @@ SpeakCup | 2008 | SpeakCup: simplicity, BABL, and shape change | Jamie Zigelbaum
 Slurp | 2009 | Slurp: Tangibility, Spatiality, and an Eyedropper | Jamie Zigelbaum and Alejandro Vazquez and Adam Kumpf and Hiroshi Ishii
 Illuminating Clay | 2002 | Illuminating Clay: A 3-D Tangible Interface for Landscape Analysis | Ben Piper and Carlo Ratti and Hiroshi Ishii
 MusicBottles | 2001 | Bottles as a minimal interface to access digital information | Hiroshi Ishii and Ali Mazalek and Jay Lee
-Huggable | 2009 | Real-time social touch gesture recognition for sensate robots | Heather Knight and Robert Toscano and Walter D Stiehl and Angela Chang and Yi Wang and Cynthia Breazeal
 squirrel phone | 2005 | Physical embodiments for mobile communication agents | Stefan Marti and Chris Schmandt
 
 

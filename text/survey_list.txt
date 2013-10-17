@@ -111,14 +111,18 @@ ducks
 arfs
 ---
   > badges
+    # react os?
+    
   > kips
-
+    # books
 
 puppets -> 
 -------
   > dolls
     ### Posey
+    ### Monkey
   > golems
+    # reaper?
   > knives
   > sniffers
 
@@ -126,28 +130,34 @@ puppets ->
 drone -> unskilled labor / passive consumption
 -----
   > knives
-  
-  > tinks
-    # Navigational Blocks | 2002 | Navigational blocks: navigating information space with tangible media | Ken Camarata and Ellen Yi-Luen Do and Brian R Johnson and Mark D Gross
-    # siftables (sifteo)
+    #??? Slurp | 2009 | Slurp: Tangibility, Spatiality, and an Eyedropper | Jamie Zigelbaum and Alejandro Vazquez and Adam Kumpf and Hiroshi Ishii
     
   > mekas
   > bubbles
   
   > dolls
-    # InTouch | 1998 | Tangible Interfaces for Remote Collaboration and Communication | Scott Brave and Hiroshi Ishii and Andrew Dahley
     
   > kips
   > badges
   > choops
+    # Lumen | 2004 | Lumen: interactive visual and shape display for calm computing | Ivan Poupyrev and Tatsushi Nashida and Shigeaki Maruyama and Jun Rekimoto and Yasufumi Yamaji
+
   > lids
   > shrines
     : etherdivers
     : astraljecters
 
 
-taster -> judges relative merits of systems
+taster -> judges relative merits of systems / gives feedback
 ------
+  > mekas
+    # Stress Outsourced
+  
+  > dolls
+    # InTouch | 1998 | Tangible Interfaces for Remote Collaboration and Communication | Scott Brave and Hiroshi Ishii and Andrew Dahley
+    # Hug | 2003 | The Hug: an exploration of robotic form for intimate communication | Carl DiSalvo and Francine Gemperle and Jodi Forlizzi and Elliott Montgomery
+    # squirrel phone | 2005 | Physical embodiments for mobile communication agents | Stefan Marti and Chris Schmandt
+  
   > shrines
     : dredders
     : kratters
@@ -157,9 +167,14 @@ wrangler ->
 --------
   > knives
     # Jabberstamp | 2007 | Jabberstamp: embedding sound and voice in traditional drawings | Hayes Solos Raffle and Cati Vaucelle and Ruibing Wang and Hiroshi Ishii
+    # I/O Brush | 2004 | I/O brush: drawing with everyday objects as ink | Kimiko Ryokai and Stefan Marti and Hiroshi Ishii
+    
   > sticks
   > choops
+  
   > golems
+    # BigDog | 2008 | BigDog, the rough-terrain quadruped robot | Marc Raibert and Kevin Blankespoor and Gabriel Nelson and Rob Playter
+    
   > dolls
 
 
@@ -206,6 +221,11 @@ tinker -> modifies system behaviors / builds systems from tinks
     # Siftables (Sifteo) | 2007 | Siftables: Towards Sensor Network User Interfaces | David Merrill and Jeevan Kalanithi and Pattie Maes
     # Molecubes | 2007 | Evolved and Designed Self-Reproducing Modular Robotics | Victor Zykov and Efstathios Mytilinaios and Mark Desnoyer and Hod Lipson
     # Electronic Blocks | 2001 | Electronic Blocks: Tangible Programming Elements for Preschoolers | Peta Wyeth and Gordon Wyeth
+    # Prismatic Cubes | 2009 | Design of Prismatic Cube Modules for Convex Corner Traversal in 3D | Michael Philetus Weller and Brian T Kirby and H Benjamin Brown and Mark D Gross and Seth Copen Goldstein
+    # LittleBits | 2009 | Electronics as material: littleBits | Ayah Bdeir
+    # N-Smarts | 2009 | N-smarts: networked suite of mobile atmospheric real-time sensors | Richard J Honicky and Eric Brewer and Eric Paulos and Richard White
+    # Navigational Blocks | 2002 | Navigational blocks: navigating information space with tangible media | Ken Camarata and Ellen Yi-Luen Do and Brian R Johnson and Mark D Gross
+    # siftables (sifteo)
     
   > sticks
   > choops
@@ -217,6 +237,7 @@ tinker -> modifies system behaviors / builds systems from tinks
     ### molecubes
     ### CKBot
     ### Odin
+    ### Prismatic Cubes
     
   > dolls (modification?)
     # slot machine | 1981 |  | radia perlman
@@ -225,7 +246,12 @@ tinker -> modifies system behaviors / builds systems from tinks
     ### Topobo
     # Curlybot | 2000 | Curlybot: Designing a New Class of Computational Toys | Phil Frei and Victor Su and Bakhtiar Mikhak and Hiroshi Ishii
     # Easigami | 2009 | Easigami: A reconfigurable folded-sheet TUI in 3D | Yingdan Huang and Mark D Gross and Ellen Yi-Luen Do and Mike Eisenberg
+    # Connectibles | 2008 | Connectibles: tangible social networks | Jeevan J Kalanithi and Bove, Jr, V Michael
+    # SpeakCup | 2008 | SpeakCup: simplicity, BABL, and shape change | Jamie Zigelbaum and Angela Chang and James Gouldstone and Joshua Jen Monzen and Hiroshi Ishii
+    ###??? handsaw
+    ###??? illuminating clay
     
+
   > lids
     # Crickets | 1998 | Digital manipulatives: new toys to think with | Mitchel Resnick and Fred Martin and Robert Berg and Rick Borovoy and Vanessa Colella and Kwin Kramer and Brian Silverman
     
@@ -266,10 +292,15 @@ tek -> builds systems
     # PolyBot | 2000 | PolyBot: a modular reconfigurable robot | Mark Yim and David G Duff and Kimon D Roufas
     # Planar Catoms | 2007 | A modular robotic system using magnetic force effectors | Brian T Kirby and Burak Aksak and Jason D Campbell and Jim F Hoburg and Todd C Mowry and Padmanabhan Pillai and Seth Copen Goldstein
     ### Prismatic Cubes
+    # oil bots? | 2007 | Experiment Design for Stochastic Three-Dimensional Reconfiguration of Modular Robots | Victor Zykov and Hod Lipson
+    # Morpho | 2008 | Morpho: A self-deformable modular robot inspired by cellular structure | Chih-Han Yu and Kristina Haller and Donald Ingber and Radhika Nagpal
     
   > sticks (?)
   > choops
   
+  > dolls 
+    # Illuminating Clay | 2002 | Illuminating Clay: A 3-D Tangible Interface for Landscape Analysis | Ben Piper and Carlo Ratti and Hiroshi Ishii
+    
   > mekas
     ### Prismatic Cubes
     

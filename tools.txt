@@ -13,7 +13,7 @@ society of mind | 1985 | The Society of Mind | Marvin Minsky
 stigmergy | 1995 | Modelling the Collective Building of Complex Architectures in Social Insects with Lattice Swarms | Guy Theraulaz and Eric Bonabeau
 ubuquitous computing | 1999 | The Computer for the 21st Century | Mark Weiser
 
-
+Huggable | 2009 | Real-time social touch gesture recognition for sensate robots | Heather Knight and Robert Toscano and Walter D Stiehl and Angela Chang and Yi Wang and Cynthia Breazeal
 LilyPad Arduino | 2008 | The LilyPad Arduino: Using Computational Textiles to Investigate Engagement, Aesthetics, and Diversity in Computer Science Education | Leah Beuchley and Mike Eisenberg and Jaime Catchen and Ali Crockett
 Arduino | 2007 | Arduino: An open electronics prototyping platform | David A Mellis and Massimo Banzi and David Cuartielles and Tom Igoe
 Wonderment Toolkit | 2008 | Objects of Wonderment | Eric Paulos and Tom Jenkins and August Joki and Parul Vora
